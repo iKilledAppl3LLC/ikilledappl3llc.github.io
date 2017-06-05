@@ -1,0 +1,10 @@
+Package: net.netau.ikilledappl3.nolivefilters8
+Name: NoLiveFilters8
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Disable the Live Effects!
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Section: Tweaks
+Version: 1.0~beta2-1
+Installed-Size: 72
