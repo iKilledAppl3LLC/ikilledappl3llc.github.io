@@ -231,13 +231,14 @@ MD5sum: 1bbce7e8b42c857b647f3f1d0cde18a1
 Package: com.ikilledappl3.waterwave
 Name: WaterCharge
 Depends: mobilesubstrate, ws.hbang.common
-Version: 1.0
+Version: 1.0-2
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Cool water effect while charging!
+Depiction: http://ikilledappl3.com/dp/WaterWave/
+Icon: http://www.ikilledappl3.com/dp/WaterWave/WaterCharge@3.png
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Section: Tweaks
-Size: 1196904
-Filename: ./com.ikilledappl3.waterwave_1.0-1_iphoneos-arm.deb
-MD5sum: 58c1e6f9066b98a7ae40c5a55f19b59a
-
+Size: 1197058
+Filename: ./com.ikilledappl3.waterwave_1.0-2_iphoneos-arm.deb
+MD5sum: 000d8e7e5f91feff27ebd31e221d9731
