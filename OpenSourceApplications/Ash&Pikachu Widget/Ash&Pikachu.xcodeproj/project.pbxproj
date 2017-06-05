@@ -1,0 +1,691 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D826AE5A19539D9600D95525 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D826AE5919539D9600D95525 /* main.m */; };
+		D826AE5D19539D9600D95525 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D826AE5C19539D9600D95525 /* AppDelegate.m */; };
+		D826AE6019539D9600D95525 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D826AE5F19539D9600D95525 /* ViewController.m */; };
+		D826AE6519539D9600D95525 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D826AE6419539D9600D95525 /* Images.xcassets */; };
+		D826AE7119539D9600D95525 /* Ash_PikachuTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D826AE7019539D9600D95525 /* Ash_PikachuTests.m */; };
+		D826AE8119539DB500D95525 /* NotificationCenter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D826AE8019539DB500D95525 /* NotificationCenter.framework */; };
+		D826AE8C19539DB500D95525 /* com.development.Ash-Pikachu.Today.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = D826AE7E19539DB500D95525 /* com.development.Ash-Pikachu.Today.appex */; };
+		D826AE961953A54400D95525 /* TodayViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D826AE951953A54400D95525 /* TodayViewController.m */; };
+		D826AEB31953A69E00D95525 /* Ash-Ketchum-0.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AE971953A69E00D95525 /* Ash-Ketchum-0.png */; };
+		D826AEB41953A69E00D95525 /* Ash-Ketchum-0@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AE981953A69E00D95525 /* Ash-Ketchum-0@2x.png */; };
+		D826AEB51953A69E00D95525 /* Ash-Ketchum-1.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AE991953A69E00D95525 /* Ash-Ketchum-1.png */; };
+		D826AEB61953A69E00D95525 /* Ash-Ketchum-1@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AE9A1953A69E00D95525 /* Ash-Ketchum-1@2x.png */; };
+		D826AEB71953A69E00D95525 /* Ash-Ketchum-2.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AE9B1953A69E00D95525 /* Ash-Ketchum-2.png */; };
+		D826AEB81953A69E00D95525 /* Ash-Ketchum-2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AE9C1953A69E00D95525 /* Ash-Ketchum-2@2x.png */; };
+		D826AEB91953A69E00D95525 /* Ash-Ketchum-3.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AE9D1953A69E00D95525 /* Ash-Ketchum-3.png */; };
+		D826AEBA1953A69E00D95525 /* Ash-Ketchum-3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AE9E1953A69E00D95525 /* Ash-Ketchum-3@2x.png */; };
+		D826AEBB1953A69E00D95525 /* Ash-Ketchum-4.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AE9F1953A69E00D95525 /* Ash-Ketchum-4.png */; };
+		D826AEBC1953A69E00D95525 /* Ash-Ketchum-4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AEA01953A69E00D95525 /* Ash-Ketchum-4@2x.png */; };
+		D826AEBD1953A69E00D95525 /* Ash-Ketchum-5.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AEA11953A69E00D95525 /* Ash-Ketchum-5.png */; };
+		D826AEBE1953A69E00D95525 /* Ash-Ketchum-5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AEA21953A69E00D95525 /* Ash-Ketchum-5@2x.png */; };
+		D826AEBF1953A69E00D95525 /* Ash-Ketchum-6.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AEA31953A69E00D95525 /* Ash-Ketchum-6.png */; };
+		D826AEC01953A69E00D95525 /* Ash-Ketchum-6@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AEA41953A69E00D95525 /* Ash-Ketchum-6@2x.png */; };
+		D826AEC11953A69E00D95525 /* Ash-Ketchum-7.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AEA51953A69E00D95525 /* Ash-Ketchum-7.png */; };
+		D826AEC21953A69E00D95525 /* Ash-Ketchum-7@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AEA61953A69E00D95525 /* Ash-Ketchum-7@2x.png */; };
+		D826AEC31953A69E00D95525 /* Ash-Ketchum-8.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AEA71953A69E00D95525 /* Ash-Ketchum-8.png */; };
+		D826AEC41953A69E00D95525 /* Ash-Ketchum-8@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AEA81953A69E00D95525 /* Ash-Ketchum-8@2x.png */; };
+		D826AEC51953A69E00D95525 /* Ash-Ketchum-9.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AEA91953A69E00D95525 /* Ash-Ketchum-9.png */; };
+		D826AEC61953A69E00D95525 /* Ash-Ketchum-9@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AEAA1953A69E00D95525 /* Ash-Ketchum-9@2x.png */; };
+		D826AEC71953A69E00D95525 /* Ash-Ketchum-10.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AEAB1953A69E00D95525 /* Ash-Ketchum-10.png */; };
+		D826AEC81953A69E00D95525 /* Ash-Ketchum-10@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AEAC1953A69E00D95525 /* Ash-Ketchum-10@2x.png */; };
+		D826AEC91953A69E00D95525 /* Ash-Ketchum-11.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AEAD1953A69E00D95525 /* Ash-Ketchum-11.png */; };
+		D826AECA1953A69E00D95525 /* Ash-Ketchum-11@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AEAE1953A69E00D95525 /* Ash-Ketchum-11@2x.png */; };
+		D826AECB1953A69E00D95525 /* Ash-Ketchum-12.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AEAF1953A69E00D95525 /* Ash-Ketchum-12.png */; };
+		D826AECC1953A69E00D95525 /* Ash-Ketchum-12@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AEB01953A69E00D95525 /* Ash-Ketchum-12@2x.png */; };
+		D826AECD1953A69E00D95525 /* Ash-Ketchum-13.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AEB11953A69E00D95525 /* Ash-Ketchum-13.png */; };
+		D826AECE1953A69E00D95525 /* Ash-Ketchum-13@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D826AEB21953A69E00D95525 /* Ash-Ketchum-13@2x.png */; };
+		D8BEE5E91953AC31007DBB54 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8BEE5E81953AC31007DBB54 /* Main.storyboard */; };
+		D8BEE5EB1953AE23007DBB54 /* UIImage.png in Resources */ = {isa = PBXBuildFile; fileRef = D8BEE5EA1953AE23007DBB54 /* UIImage.png */; };
+		D8BEE5ED1953B35F007DBB54 /* MainInterface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8BEE5EC1953B35F007DBB54 /* MainInterface.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		D826AE6B19539D9600D95525 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D826AE4C19539D9600D95525 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D826AE5319539D9600D95525;
+			remoteInfo = "Ash&Pikachu";
+		};
+		D826AE8A19539DB500D95525 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D826AE4C19539D9600D95525 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D826AE7D19539DB500D95525;
+			remoteInfo = Today;
+		};
+		D826AE8D19539DB500D95525 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D826AE4C19539D9600D95525 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D826AE7D19539DB500D95525;
+			remoteInfo = Today;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		D826AE9219539DB500D95525 /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				D826AE8C19539DB500D95525 /* com.development.Ash-Pikachu.Today.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		D826AE5419539D9600D95525 /* Ash&Pikachu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ash&Pikachu.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D826AE5819539D9600D95525 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D826AE5919539D9600D95525 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		D826AE5B19539D9600D95525 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		D826AE5C19539D9600D95525 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		D826AE5E19539D9600D95525 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		D826AE5F19539D9600D95525 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		D826AE6419539D9600D95525 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		D826AE6A19539D9600D95525 /* Ash&PikachuTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Ash&PikachuTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D826AE6F19539D9600D95525 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D826AE7019539D9600D95525 /* Ash_PikachuTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Ash_PikachuTests.m; sourceTree = "<group>"; };
+		D826AE7E19539DB500D95525 /* com.development.Ash-Pikachu.Today.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "com.development.Ash-Pikachu.Today.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D826AE8019539DB500D95525 /* NotificationCenter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = NotificationCenter.framework; path = System/Library/Frameworks/NotificationCenter.framework; sourceTree = SDKROOT; };
+		D826AE8419539DB500D95525 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D826AE8519539DB500D95525 /* TodayViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TodayViewController.h; sourceTree = "<group>"; };
+		D826AE951953A54400D95525 /* TodayViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TodayViewController.m; sourceTree = "<group>"; };
+		D826AE971953A69E00D95525 /* Ash-Ketchum-0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-0.png"; sourceTree = "<group>"; };
+		D826AE981953A69E00D95525 /* Ash-Ketchum-0@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-0@2x.png"; sourceTree = "<group>"; };
+		D826AE991953A69E00D95525 /* Ash-Ketchum-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-1.png"; sourceTree = "<group>"; };
+		D826AE9A1953A69E00D95525 /* Ash-Ketchum-1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-1@2x.png"; sourceTree = "<group>"; };
+		D826AE9B1953A69E00D95525 /* Ash-Ketchum-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-2.png"; sourceTree = "<group>"; };
+		D826AE9C1953A69E00D95525 /* Ash-Ketchum-2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-2@2x.png"; sourceTree = "<group>"; };
+		D826AE9D1953A69E00D95525 /* Ash-Ketchum-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-3.png"; sourceTree = "<group>"; };
+		D826AE9E1953A69E00D95525 /* Ash-Ketchum-3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-3@2x.png"; sourceTree = "<group>"; };
+		D826AE9F1953A69E00D95525 /* Ash-Ketchum-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-4.png"; sourceTree = "<group>"; };
+		D826AEA01953A69E00D95525 /* Ash-Ketchum-4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-4@2x.png"; sourceTree = "<group>"; };
+		D826AEA11953A69E00D95525 /* Ash-Ketchum-5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-5.png"; sourceTree = "<group>"; };
+		D826AEA21953A69E00D95525 /* Ash-Ketchum-5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-5@2x.png"; sourceTree = "<group>"; };
+		D826AEA31953A69E00D95525 /* Ash-Ketchum-6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-6.png"; sourceTree = "<group>"; };
+		D826AEA41953A69E00D95525 /* Ash-Ketchum-6@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-6@2x.png"; sourceTree = "<group>"; };
+		D826AEA51953A69E00D95525 /* Ash-Ketchum-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-7.png"; sourceTree = "<group>"; };
+		D826AEA61953A69E00D95525 /* Ash-Ketchum-7@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-7@2x.png"; sourceTree = "<group>"; };
+		D826AEA71953A69E00D95525 /* Ash-Ketchum-8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-8.png"; sourceTree = "<group>"; };
+		D826AEA81953A69E00D95525 /* Ash-Ketchum-8@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-8@2x.png"; sourceTree = "<group>"; };
+		D826AEA91953A69E00D95525 /* Ash-Ketchum-9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-9.png"; sourceTree = "<group>"; };
+		D826AEAA1953A69E00D95525 /* Ash-Ketchum-9@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-9@2x.png"; sourceTree = "<group>"; };
+		D826AEAB1953A69E00D95525 /* Ash-Ketchum-10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-10.png"; sourceTree = "<group>"; };
+		D826AEAC1953A69E00D95525 /* Ash-Ketchum-10@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-10@2x.png"; sourceTree = "<group>"; };
+		D826AEAD1953A69E00D95525 /* Ash-Ketchum-11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-11.png"; sourceTree = "<group>"; };
+		D826AEAE1953A69E00D95525 /* Ash-Ketchum-11@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-11@2x.png"; sourceTree = "<group>"; };
+		D826AEAF1953A69E00D95525 /* Ash-Ketchum-12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-12.png"; sourceTree = "<group>"; };
+		D826AEB01953A69E00D95525 /* Ash-Ketchum-12@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-12@2x.png"; sourceTree = "<group>"; };
+		D826AEB11953A69E00D95525 /* Ash-Ketchum-13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-13.png"; sourceTree = "<group>"; };
+		D826AEB21953A69E00D95525 /* Ash-Ketchum-13@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Ash-Ketchum-13@2x.png"; sourceTree = "<group>"; };
+		D8BEE5E81953AC31007DBB54 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../Main.storyboard; sourceTree = "<group>"; };
+		D8BEE5EA1953AE23007DBB54 /* UIImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = UIImage.png; sourceTree = "<group>"; };
+		D8BEE5EC1953B35F007DBB54 /* MainInterface.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MainInterface.storyboard; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D826AE5119539D9600D95525 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D826AE6719539D9600D95525 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D826AE7B19539DB500D95525 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D826AE8119539DB500D95525 /* NotificationCenter.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D826AE4B19539D9600D95525 = {
+			isa = PBXGroup;
+			children = (
+				D826AE5619539D9600D95525 /* Ash&Pikachu */,
+				D826AE6D19539D9600D95525 /* Ash&PikachuTests */,
+				D826AE8219539DB500D95525 /* Today */,
+				D826AE7F19539DB500D95525 /* Frameworks */,
+				D826AE5519539D9600D95525 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D826AE5519539D9600D95525 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D826AE5419539D9600D95525 /* Ash&Pikachu.app */,
+				D826AE6A19539D9600D95525 /* Ash&PikachuTests.xctest */,
+				D826AE7E19539DB500D95525 /* com.development.Ash-Pikachu.Today.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D826AE5619539D9600D95525 /* Ash&Pikachu */ = {
+			isa = PBXGroup;
+			children = (
+				D826AE5B19539D9600D95525 /* AppDelegate.h */,
+				D826AE5C19539D9600D95525 /* AppDelegate.m */,
+				D826AE5E19539D9600D95525 /* ViewController.h */,
+				D826AE5F19539D9600D95525 /* ViewController.m */,
+				D8BEE5E81953AC31007DBB54 /* Main.storyboard */,
+				D826AE6419539D9600D95525 /* Images.xcassets */,
+				D826AE5719539D9600D95525 /* Supporting Files */,
+			);
+			path = "Ash&Pikachu";
+			sourceTree = "<group>";
+		};
+		D826AE5719539D9600D95525 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				D8BEE5EA1953AE23007DBB54 /* UIImage.png */,
+				D826AE5819539D9600D95525 /* Info.plist */,
+				D826AE5919539D9600D95525 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D826AE6D19539D9600D95525 /* Ash&PikachuTests */ = {
+			isa = PBXGroup;
+			children = (
+				D826AE7019539D9600D95525 /* Ash_PikachuTests.m */,
+				D826AE6E19539D9600D95525 /* Supporting Files */,
+			);
+			path = "Ash&PikachuTests";
+			sourceTree = "<group>";
+		};
+		D826AE6E19539D9600D95525 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				D826AE6F19539D9600D95525 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D826AE7F19539DB500D95525 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D826AE8019539DB500D95525 /* NotificationCenter.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D826AE8219539DB500D95525 /* Today */ = {
+			isa = PBXGroup;
+			children = (
+				D826AE8519539DB500D95525 /* TodayViewController.h */,
+				D826AE951953A54400D95525 /* TodayViewController.m */,
+				D8BEE5EC1953B35F007DBB54 /* MainInterface.storyboard */,
+				D826AE8319539DB500D95525 /* Supporting Files */,
+			);
+			path = Today;
+			sourceTree = "<group>";
+		};
+		D826AE8319539DB500D95525 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				D826AE971953A69E00D95525 /* Ash-Ketchum-0.png */,
+				D826AE981953A69E00D95525 /* Ash-Ketchum-0@2x.png */,
+				D826AE991953A69E00D95525 /* Ash-Ketchum-1.png */,
+				D826AE9A1953A69E00D95525 /* Ash-Ketchum-1@2x.png */,
+				D826AE9B1953A69E00D95525 /* Ash-Ketchum-2.png */,
+				D826AE9C1953A69E00D95525 /* Ash-Ketchum-2@2x.png */,
+				D826AE9D1953A69E00D95525 /* Ash-Ketchum-3.png */,
+				D826AE9E1953A69E00D95525 /* Ash-Ketchum-3@2x.png */,
+				D826AE9F1953A69E00D95525 /* Ash-Ketchum-4.png */,
+				D826AEA01953A69E00D95525 /* Ash-Ketchum-4@2x.png */,
+				D826AEA11953A69E00D95525 /* Ash-Ketchum-5.png */,
+				D826AEA21953A69E00D95525 /* Ash-Ketchum-5@2x.png */,
+				D826AEA31953A69E00D95525 /* Ash-Ketchum-6.png */,
+				D826AEA41953A69E00D95525 /* Ash-Ketchum-6@2x.png */,
+				D826AEA51953A69E00D95525 /* Ash-Ketchum-7.png */,
+				D826AEA61953A69E00D95525 /* Ash-Ketchum-7@2x.png */,
+				D826AEA71953A69E00D95525 /* Ash-Ketchum-8.png */,
+				D826AEA81953A69E00D95525 /* Ash-Ketchum-8@2x.png */,
+				D826AEA91953A69E00D95525 /* Ash-Ketchum-9.png */,
+				D826AEAA1953A69E00D95525 /* Ash-Ketchum-9@2x.png */,
+				D826AEAB1953A69E00D95525 /* Ash-Ketchum-10.png */,
+				D826AEAC1953A69E00D95525 /* Ash-Ketchum-10@2x.png */,
+				D826AEAD1953A69E00D95525 /* Ash-Ketchum-11.png */,
+				D826AEAE1953A69E00D95525 /* Ash-Ketchum-11@2x.png */,
+				D826AEAF1953A69E00D95525 /* Ash-Ketchum-12.png */,
+				D826AEB01953A69E00D95525 /* Ash-Ketchum-12@2x.png */,
+				D826AEB11953A69E00D95525 /* Ash-Ketchum-13.png */,
+				D826AEB21953A69E00D95525 /* Ash-Ketchum-13@2x.png */,
+				D826AE8419539DB500D95525 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D826AE5319539D9600D95525 /* Ash&Pikachu */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D826AE7419539D9600D95525 /* Build configuration list for PBXNativeTarget "Ash&Pikachu" */;
+			buildPhases = (
+				D826AE5019539D9600D95525 /* Sources */,
+				D826AE5119539D9600D95525 /* Frameworks */,
+				D826AE5219539D9600D95525 /* Resources */,
+				D826AE9219539DB500D95525 /* Embed App Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D826AE8B19539DB500D95525 /* PBXTargetDependency */,
+				D826AE8E19539DB500D95525 /* PBXTargetDependency */,
+			);
+			name = "Ash&Pikachu";
+			productName = "Ash&Pikachu";
+			productReference = D826AE5419539D9600D95525 /* Ash&Pikachu.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D826AE6919539D9600D95525 /* Ash&PikachuTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D826AE7719539D9600D95525 /* Build configuration list for PBXNativeTarget "Ash&PikachuTests" */;
+			buildPhases = (
+				D826AE6619539D9600D95525 /* Sources */,
+				D826AE6719539D9600D95525 /* Frameworks */,
+				D826AE6819539D9600D95525 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D826AE6C19539D9600D95525 /* PBXTargetDependency */,
+			);
+			name = "Ash&PikachuTests";
+			productName = "Ash&PikachuTests";
+			productReference = D826AE6A19539D9600D95525 /* Ash&PikachuTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		D826AE7D19539DB500D95525 /* Today */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D826AE8F19539DB500D95525 /* Build configuration list for PBXNativeTarget "Today" */;
+			buildPhases = (
+				D826AE7A19539DB500D95525 /* Sources */,
+				D826AE7B19539DB500D95525 /* Frameworks */,
+				D826AE7C19539DB500D95525 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Today;
+			productName = Today;
+			productReference = D826AE7E19539DB500D95525 /* com.development.Ash-Pikachu.Today.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D826AE4C19539D9600D95525 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0600;
+				ORGANIZATIONNAME = "Mad Game Studios";
+				TargetAttributes = {
+					D826AE5319539D9600D95525 = {
+						CreatedOnToolsVersion = 6.0;
+					};
+					D826AE6919539D9600D95525 = {
+						CreatedOnToolsVersion = 6.0;
+						TestTargetID = D826AE5319539D9600D95525;
+					};
+					D826AE7D19539DB500D95525 = {
+						CreatedOnToolsVersion = 6.0;
+					};
+				};
+			};
+			buildConfigurationList = D826AE4F19539D9600D95525 /* Build configuration list for PBXProject "Ash&Pikachu" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D826AE4B19539D9600D95525;
+			productRefGroup = D826AE5519539D9600D95525 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D826AE5319539D9600D95525 /* Ash&Pikachu */,
+				D826AE6919539D9600D95525 /* Ash&PikachuTests */,
+				D826AE7D19539DB500D95525 /* Today */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D826AE5219539D9600D95525 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D8BEE5E91953AC31007DBB54 /* Main.storyboard in Resources */,
+				D826AE6519539D9600D95525 /* Images.xcassets in Resources */,
+				D8BEE5EB1953AE23007DBB54 /* UIImage.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D826AE6819539D9600D95525 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D826AE7C19539DB500D95525 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D826AEC51953A69E00D95525 /* Ash-Ketchum-9.png in Resources */,
+				D826AEC71953A69E00D95525 /* Ash-Ketchum-10.png in Resources */,
+				D826AECC1953A69E00D95525 /* Ash-Ketchum-12@2x.png in Resources */,
+				D826AECA1953A69E00D95525 /* Ash-Ketchum-11@2x.png in Resources */,
+				D826AEB51953A69E00D95525 /* Ash-Ketchum-1.png in Resources */,
+				D826AEC01953A69E00D95525 /* Ash-Ketchum-6@2x.png in Resources */,
+				D826AEC11953A69E00D95525 /* Ash-Ketchum-7.png in Resources */,
+				D826AEC21953A69E00D95525 /* Ash-Ketchum-7@2x.png in Resources */,
+				D8BEE5ED1953B35F007DBB54 /* MainInterface.storyboard in Resources */,
+				D826AEC91953A69E00D95525 /* Ash-Ketchum-11.png in Resources */,
+				D826AEC81953A69E00D95525 /* Ash-Ketchum-10@2x.png in Resources */,
+				D826AECE1953A69E00D95525 /* Ash-Ketchum-13@2x.png in Resources */,
+				D826AEBA1953A69E00D95525 /* Ash-Ketchum-3@2x.png in Resources */,
+				D826AEB61953A69E00D95525 /* Ash-Ketchum-1@2x.png in Resources */,
+				D826AEB31953A69E00D95525 /* Ash-Ketchum-0.png in Resources */,
+				D826AEBC1953A69E00D95525 /* Ash-Ketchum-4@2x.png in Resources */,
+				D826AEC41953A69E00D95525 /* Ash-Ketchum-8@2x.png in Resources */,
+				D826AEBB1953A69E00D95525 /* Ash-Ketchum-4.png in Resources */,
+				D826AEB41953A69E00D95525 /* Ash-Ketchum-0@2x.png in Resources */,
+				D826AEC61953A69E00D95525 /* Ash-Ketchum-9@2x.png in Resources */,
+				D826AEC31953A69E00D95525 /* Ash-Ketchum-8.png in Resources */,
+				D826AEBD1953A69E00D95525 /* Ash-Ketchum-5.png in Resources */,
+				D826AEBF1953A69E00D95525 /* Ash-Ketchum-6.png in Resources */,
+				D826AECB1953A69E00D95525 /* Ash-Ketchum-12.png in Resources */,
+				D826AEBE1953A69E00D95525 /* Ash-Ketchum-5@2x.png in Resources */,
+				D826AECD1953A69E00D95525 /* Ash-Ketchum-13.png in Resources */,
+				D826AEB71953A69E00D95525 /* Ash-Ketchum-2.png in Resources */,
+				D826AEB91953A69E00D95525 /* Ash-Ketchum-3.png in Resources */,
+				D826AEB81953A69E00D95525 /* Ash-Ketchum-2@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D826AE5019539D9600D95525 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D826AE6019539D9600D95525 /* ViewController.m in Sources */,
+				D826AE5D19539D9600D95525 /* AppDelegate.m in Sources */,
+				D826AE5A19539D9600D95525 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D826AE6619539D9600D95525 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D826AE7119539D9600D95525 /* Ash_PikachuTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D826AE7A19539DB500D95525 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D826AE961953A54400D95525 /* TodayViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D826AE6C19539D9600D95525 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D826AE5319539D9600D95525 /* Ash&Pikachu */;
+			targetProxy = D826AE6B19539D9600D95525 /* PBXContainerItemProxy */;
+		};
+		D826AE8B19539DB500D95525 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D826AE7D19539DB500D95525 /* Today */;
+			targetProxy = D826AE8A19539DB500D95525 /* PBXContainerItemProxy */;
+		};
+		D826AE8E19539DB500D95525 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D826AE7D19539DB500D95525 /* Today */;
+			targetProxy = D826AE8D19539DB500D95525 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		D826AE7219539D9600D95525 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				METAL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		D826AE7319539D9600D95525 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				METAL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		D826AE7519539D9600D95525 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				INFOPLIST_FILE = "Ash&Pikachu/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		D826AE7619539D9600D95525 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				INFOPLIST_FILE = "Ash&Pikachu/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		D826AE7819539D9600D95525 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Ash&Pikachu.app/Ash&Pikachu";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Ash&PikachuTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				METAL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+			};
+			name = Debug;
+		};
+		D826AE7919539D9600D95525 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Ash&Pikachu.app/Ash&Pikachu";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Ash&PikachuTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				METAL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+			};
+			name = Release;
+		};
+		D826AE9019539DB500D95525 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Felicia Weatherspoon (B89RLLXT26)";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Today/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				METAL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = "com.development.Ash-Pikachu.$(TARGET_NAME:rfc1034identifier)";
+				PROVISIONING_PROFILE = "0215B82F-30C5-4D53-A7F5-2816FC141309";
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		D826AE9119539DB500D95525 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer: Felicia Weatherspoon (B89RLLXT26)";
+				INFOPLIST_FILE = Today/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				METAL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = "com.development.Ash-Pikachu.$(TARGET_NAME:rfc1034identifier)";
+				PROVISIONING_PROFILE = "0215B82F-30C5-4D53-A7F5-2816FC141309";
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D826AE4F19539D9600D95525 /* Build configuration list for PBXProject "Ash&Pikachu" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D826AE7219539D9600D95525 /* Debug */,
+				D826AE7319539D9600D95525 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D826AE7419539D9600D95525 /* Build configuration list for PBXNativeTarget "Ash&Pikachu" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D826AE7519539D9600D95525 /* Debug */,
+				D826AE7619539D9600D95525 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D826AE7719539D9600D95525 /* Build configuration list for PBXNativeTarget "Ash&PikachuTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D826AE7819539D9600D95525 /* Debug */,
+				D826AE7919539D9600D95525 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D826AE8F19539DB500D95525 /* Build configuration list for PBXNativeTarget "Today" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D826AE9019539DB500D95525 /* Debug */,
+				D826AE9119539DB500D95525 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D826AE4C19539D9600D95525 /* Project object */;
+}
