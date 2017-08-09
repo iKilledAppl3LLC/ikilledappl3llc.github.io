@@ -242,3 +242,17 @@ Section: Tweaks
 Size: 1197058
 Filename: ./com.ikilledappl3.waterwave_1.0-2_iphoneos-arm.deb
 MD5sum: 000d8e7e5f91feff27ebd31e221d9731
+
+Package: com.ikilledappl3.durango
+Name: Meteora
+Version: 1.0-1
+Depends: mobilesubstrate, ws.hbang.common
+Architecture: iphoneos-arm
+Description: Slide to unlock is back!  R.I.P. Chester :/
+Depiction: http://www.ikilledappl3.com/dp/Durango/
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Section: Tweaks
+Size: 1461990
+Filename: ./com.ikilledappl3.durango_1.0-1_iphoneos-arm.deb
+MD5sum: 0a69a2250aa10dc769d83548163f4d98
