@@ -245,7 +245,7 @@ MD5sum: 000d8e7e5f91feff27ebd31e221d9731
 
 Package: com.ikilledappl3.durango
 Name: Meteora
-Version: 1.0-1
+Version: 1.0
 Depends: mobilesubstrate, ws.hbang.common
 Architecture: iphoneos-arm
 Description: Slide to unlock is back!  R.I.P. Chester :/
