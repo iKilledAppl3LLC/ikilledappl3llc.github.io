@@ -306,10 +306,10 @@ Depends: com.anemonetheming.anemone
 Conflicts: com.macciti.splendore
 Replaces: com.macciti.splendore
 Filename: ./com.ikilledappl3.splendore_iphoneos-arm_2.9-1.deb
-Size: 19097154
-MD5sum: ca7d634737a87b28b71861a70fa8177e
-SHA1: 1529960a602cc520afcd3e444cc3bce1a0b3fdfc
-SHA256: b5f596756ef47f6fec3d2783cc7d7ae6eb3d1e96155356e596fde60df396d820
+Size: 18838330
+MD5sum: 394e248be1a040ecdce58efdbc7d980e
+SHA1: 6ad6e45caf596ec653b2c4d3c2ee80b862413fb2
+SHA256: 574bacc0b17135f6f615917604dc0312165738460670ed3b8c7cc0f087697434
 Section: Themes
 Description: an Awesome iOS theme!
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
