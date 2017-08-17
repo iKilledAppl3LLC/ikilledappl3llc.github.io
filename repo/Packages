@@ -297,3 +297,20 @@ Description: A mustache with a monocle (originally made for my sister). Themes t
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Name: FancyMustacheRespringLogo
 Website: http://www.ikilledappl3.netau.net
+
+Package: com.ikilledappl3.splendore
+Version: 2.9-1
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depends: com.anemone.anemone
+Replaces: com.macciti.splendore
+Filename: ./com.ikilledappl3.splendore_iphoneos-arm_2.9-1.deb
+Size: 19097140
+MD5sum: 1e6d72a32652d2d8c254ddcd645f5be7
+SHA1: a5f6afd7133590ef88f0f31c0e0e54c7647543fe
+SHA256: db65fea81d45744d2fea765cec19fd08adcecc85b2f8b7d5501d78c5883cfb69
+Section: Themes
+Description: an Awesome iOS theme!
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: https://www.ikilledappl3.com/dp/Splendore/
+Name: Splendore
