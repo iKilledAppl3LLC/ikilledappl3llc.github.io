@@ -302,15 +302,16 @@ Package: com.ikilledappl3.splendore
 Version: 2.9-1
 Architecture: iphoneos-arm
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
-Depends: com.anemone.anemone
+Depends: com.anemonetheming.anemone
+Conflicts: com.macciti.splendore
 Replaces: com.macciti.splendore
 Filename: ./com.ikilledappl3.splendore_iphoneos-arm_2.9-1.deb
-Size: 19097140
-MD5sum: 1e6d72a32652d2d8c254ddcd645f5be7
-SHA1: a5f6afd7133590ef88f0f31c0e0e54c7647543fe
-SHA256: db65fea81d45744d2fea765cec19fd08adcecc85b2f8b7d5501d78c5883cfb69
+Size: 19097154
+MD5sum: ca7d634737a87b28b71861a70fa8177e
+SHA1: 1529960a602cc520afcd3e444cc3bce1a0b3fdfc
+SHA256: b5f596756ef47f6fec3d2783cc7d7ae6eb3d1e96155356e596fde60df396d820
 Section: Themes
 Description: an Awesome iOS theme!
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
-Depiction: https://www.ikilledappl3.com/dp/Splendore/
+Depiction: http://www.ikilledappl3.com/dp/Splendore/
 Name: Splendore
