@@ -307,9 +307,9 @@ Conflicts: com.macciti.splendore
 Replaces: com.macciti.splendore
 Filename: ./com.ikilledappl3.splendore_iphoneos-arm_2.9-1.deb
 Size: 18838330
-MD5sum: 394e248be1a040ecdce58efdbc7d980e
-SHA1: 6ad6e45caf596ec653b2c4d3c2ee80b862413fb2
-SHA256: 574bacc0b17135f6f615917604dc0312165738460670ed3b8c7cc0f087697434
+MD5sum: 9d69c207c7c2b2632c417c834bb44e6e
+SHA1: 715023515a9deae249cc517625b1ba62dd70ce21
+SHA256: 07fc98edcbd589f975e8626311ea861b27c6db35902a9d43c7e686763fa241a0
 Section: Themes
 Description: an Awesome iOS theme!
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
