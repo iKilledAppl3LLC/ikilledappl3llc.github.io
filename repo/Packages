@@ -315,3 +315,19 @@ Description: an Awesome iOS theme!
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depiction: http://www.ikilledappl3.com/dp/Splendore/
 Name: Splendore
+
+Package: com.ikilledappl3.ccwallcustomizer2
+Version: 2.0-1
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 3920
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./com.ikilledappl3.ccwallcustomizer2_2.0-1_iphoneos-arm.deb
+Size: 1844276
+MD5sum: 0072f33e5a5fa86e86a1ac873bd772e8
+SHA1: 993a2c245f2b156ecec3b0c2078c7a12c14b35f6
+SHA256: affd6bee6e5213071b484f3ea98c68f17eceb1cb350404abe7ea8217c638aaee
+Section: Tweaks
+Description: change the background of the control center on iOS 11+
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Name: CCWallCustomizer 2
