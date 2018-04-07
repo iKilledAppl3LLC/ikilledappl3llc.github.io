@@ -333,11 +333,12 @@ Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Name: CCWallCustomizer 2
 
 Package: com.ikilledappl3.noinstastories
+Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
 Installed-Size: 136
 Depends: mobilesubstrate
-Filename: ./com.ikilledappl3.noinstastories_1.0-1_iphoneos-arm.deb
+Filename:./com.ikilledappl3.noinstastories_1.0-1_iphoneos-arm.deb
 Size: 3786
 MD5sum: 29f30953e5a77f8fad20e9846d9256e9
 SHA1: 1ecc63b8e9f10523e06e0e5343556ce96bd4389f
