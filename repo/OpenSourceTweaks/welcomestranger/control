@@ -1,0 +1,9 @@
+Package: com.yournamehere.welcomestranger
+Name: WelcomeStranger
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A simple UIAlertView tweak for beginner icoders!
+Maintainer: YourName <user@yourdomain.com>
+Author: YourName <user@yourdomain.com>
+Section: Tweaks
