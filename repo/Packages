@@ -348,3 +348,19 @@ Description: Remove Instagram stories from your feed!
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Name: NoInstaStories
 Website: http://www.twitter.com/iKilledAppl3
+
+Package: com.ikilledappl3.ccwallcustomizer2
+Version: 2.0.1-1
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 2628
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./com.ikilledappl3.ccwallcustomizer2_2.0.1-1_iphoneos-arm.deb
+Size: 1463086
+MD5sum: 4ff130a774b62d24418a793bea4864df
+SHA1: 0faf2c71799950c3ca8b6450beb1b27f58934125
+SHA256: 65b8c132b388b1e22ff1dda4ce235b1e1f51f8d546e23561bb1922f5f876f3d2
+Section: Tweaks
+Description: change the background of the control center on iOS 11+
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Name: CCWallCustomizer 2
