@@ -348,3 +348,21 @@ Section: Tweaks
 Description: change the background of the control center on iOS 11+
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Name: CCWallCustomizer 2
+
+Package: com.ikilledappl3.colormyyccmodules
+Version: 1.0.5-1
+Architecture: iphoneos-arm
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 6116
+Depends: mobilesubstrate, ws.hbang.common, org.thebigboss.libcolorpicker
+Conflicts: com.ikilledappl3.ccwallcustomizer2
+Replaces: com.ikilledappl3.ccwallcustomizer2
+Filename: ./com.ikilledappl3.colormyyccmodules_1.0.5-1_iphoneos-arm.deb
+Size: 2846760
+MD5sum: 84ab3780053d56e0463150e024d67812
+SHA1: af5e6c7700ada552e930d3d9e4d4cc1502ef43ac
+SHA256: 35e4a6efec51d98e5d0526ea03538bd3dfa57d598e4c14100dd925e7f8165d8c
+Section: Tweaks
+Description: Colorize your Control Center Modules!
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Name: ColorMyCCModules
