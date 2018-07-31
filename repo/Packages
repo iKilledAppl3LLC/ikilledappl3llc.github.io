@@ -350,18 +350,18 @@ Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Name: CCWallCustomizer 2
 
 Package: com.ikilledappl3.colormyyccmodules
-Version: 1.0.5-1
+Version: 1.0.6-1
 Architecture: iphoneos-arm
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
 Installed-Size: 6116
 Depends: mobilesubstrate, ws.hbang.common, org.thebigboss.libcolorpicker
 Conflicts: com.ikilledappl3.ccwallcustomizer2
 Replaces: com.ikilledappl3.ccwallcustomizer2
-Filename: ./com.ikilledappl3.colormyyccmodules_1.0.5-1_iphoneos-arm.deb
-Size: 2846760
-MD5sum: 84ab3780053d56e0463150e024d67812
-SHA1: af5e6c7700ada552e930d3d9e4d4cc1502ef43ac
-SHA256: 35e4a6efec51d98e5d0526ea03538bd3dfa57d598e4c14100dd925e7f8165d8c
+Filename:./com.ikilledappl3.colormyyccmodules_1.0.6-1_iphoneos-arm.deb
+Size: 2845552
+MD5sum: b3ad59327bfbc8b39b681ebddefc17d3
+SHA1: 803ae2702584e8c6d05850eac9c299af115effce
+SHA256: 47e39106e1262777a959f82320bfde25a4fe403cc942715b7f55c24e06ac9878
 Section: Tweaks
 Description: Colorize your Control Center Modules!
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
