@@ -4,7 +4,7 @@ Architecture: appletvos-arm64
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
 Installed-Size: 56
 Depends: mobilesubstrate
-Filename: /Users/ikilledappl3/Documents/Documents stuff/toxicappl3inc.github.io/tvrepo/com.ikilledappl3.hidemydocktv_1.0-1_appletvos-arm64.deb
+Filename: ./com.ikilledappl3.hidemydocktv_1.0-1_appletvos-arm64.deb
 Size: 2076
 MD5sum: cf124f298f2954221f5ca6142c59f317
 SHA1: cc3eb6d7f6d2564eca2b807405b375eb842a8315
