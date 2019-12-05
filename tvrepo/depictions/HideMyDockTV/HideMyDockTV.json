@@ -2,8 +2,8 @@
  "LongDescription" : "Hide the dock (background) from tvOS 13. This tweak is open sourced on GitHub! (https://github.com/iKilledAppl3/HideMyDockTV/) Special thanks to @nitoTV for the help on depictions.",
  "MainTextColor":"ffffff",
  "BackgroundColor":"0066ff",
-  "AppIconURL" : "./images/HideMyDockTV.jpg",
-  "BackgroundImageURL" : "./images/HideMyDockTVBackground.jpg",
+ "AppIconURL" : "https://toxicappl3inc.github.io/tvrepo/depictions/HideMyDockTV/images/HideMyDockTV.jpg",
+  "BackgroundImageURL" : "https://toxicappl3inc.github.io/tvrepo/depictions/HideMyDockTV/images/HideMyDockTVBackground.jpg",
   "Screenshots" : [
     "./screenshots/image1.jpg"
   ]
