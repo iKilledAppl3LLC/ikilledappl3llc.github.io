@@ -1,15 +1,16 @@
 Package: com.ikilledappl3.hidemydocktv
-Version: 1.0.5-1
+Version: 1.0.6-1
 Architecture: appletvos-arm64
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
 Installed-Size: 436
 Depends: mobilesubstrate, preferenceloader, firmware (>=13.0)
-Filename: ./com.ikilledappl3.hidemydocktv_1.0.5-1_appletvos-arm64.deb
-Size: 286860
-MD5sum: af0b4523aad9ae32b06ad736e189707a
-SHA1: d25999801b6ef95a010d2a1c558e66a61a69a46a
-SHA256: 660eab415bf3dba015cb1da18459511ef015b1b08c6426bc4ef1489c54de6da0
+Filename:./com.ikilledappl3.hidemydocktv_1.0.6-1_appletvos-arm64.deb
+Size: 286924
+MD5sum: 8057cbca14c0187186ac8d15c9376cf1
+SHA1: bde4ebe83aad47bcffb600b945f1fb1f3c89938b
+SHA256: b2d2ca22db8e351d8a663ff1666049474bf9048bfae3f890a87cca402336e4d1
 Section: Tweaks
 Description: Hide the dock from tvOS.
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: https://toxicappl3inc.github.io/tvrepo/depiction/HideMyDockTV.json
 Name: HideMyDockTV
