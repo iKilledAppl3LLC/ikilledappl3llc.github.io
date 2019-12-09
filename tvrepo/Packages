@@ -14,3 +14,20 @@ Description: Hide the dock from tvOS.
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/HideMyDockTV/HideMyDockTV.json
 Name: HideMyDockTV
+
+Package: com.ikilledappl3.piecrusttv
+Version: 1.0-1
+Architecture: appletvos-arm64
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 456
+Depends: mobilesubstrate, preferenceloader, firmware (>=13.0)
+Filename:./com.ikilledappl3.piecrusttv_1.0-1_appletvos-arm64.deb
+Size: 295444
+MD5sum: a7f7514980716ac205854bf8932a6cf2
+SHA1: 63c74cdcd3f77f164d52799ac0911482112f8713
+SHA256: 4a58319d1351a4dfa253802ef689d037f9853eeab3ae3a65183ca17ca305d4db
+Section: Tweaks
+Description: Add a percentage while downloading an application.
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/PieCrustTV/PieCrustTV.json
+Name: PieCrustTV
