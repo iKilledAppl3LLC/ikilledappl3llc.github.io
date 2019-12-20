@@ -31,3 +31,20 @@ Description: Add a percentage while downloading an application.
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/PieCrustTV/PieCrustTV.json
 Name: PieCrustTV
+
+Package: com.ikilledappl3.bringbacksleep
+Version: 1.0-1
+Architecture: appletvos-arm64
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 1496
+Depends: mobilesubstrate, preferenceloader, firmware (>=13.0)
+Filename: ./com.ikilledappl3.bringbacksleep_1.0-1_appletvos-arm64.deb
+Size: 1366682
+MD5sum: 22579845316d96e456756696221f7f8d
+SHA1: e31074fd7eb676317d920c0f9155e852cd273fe5
+SHA256: db351553b3f3bd06cdb7390473cdf5595f1f9d8f41956956a576db390d614315
+Section: Tweaks
+Description: Bring back the sleep alert from tvOS 12 to tvOS 13. (Disables the Control Center)
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/NoSleepTilBrooklyn/NoSleepTilBrooklyn.json
+Name: NoSleepTilBrooklyn
