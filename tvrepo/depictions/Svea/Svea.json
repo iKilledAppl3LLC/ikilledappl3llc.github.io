@@ -1,0 +1,11 @@
+{
+ "LongDescription" : "Toggle Dark/Light mode from the Control Center on tvOS 13.x! \n Special Thanks to nitoTV for his awesome TVControlCenter tweak! \n This tweak is open sourced on GitHub! (https://github.com/iKilledAppl3/Svea/) \n Follow me on Twitter (@iKilledAppl3), \n Donate via PayPal (https://paypal.me/iKilledAppl3). \n Support me on Patreon! (https://www.patreon.com/iKilledAppl3)",
+ "MainTextColor":"ffffff",
+ "AppIconURL" : "https://toxicappl3inc.github.io/tvrepo/depictions/Svea/images/Svea.jpg",
+  "BackgroundImageURL" : "https://toxicappl3inc.github.io/tvrepo/depictions/Svea/images/Svea.png",
+   "VideoPreviewURL":"https://toxicappl3inc.github.io/tvrepo/depictions/Svea/screenshots/Svea.mp4",
+ "Screenshots":
+ ["https://toxicappl3inc.github.io/tvrepo/depictions/Svea/screenshots/screenshot.png",
+  "https://toxicappl3inc.github.io/tvrepo/depictions/Svea/screenshots/screenshot2.png"
+ ]
+}
