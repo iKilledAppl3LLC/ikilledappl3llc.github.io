@@ -1,5 +1,5 @@
 {
- "LongDescription" : "Let it Snow, Let it Snow, Let it Snow! \n SnowyTV overlays a snow effect in all of your favorite apps! \n Merry Christmas and Happy Holidays! \n Follow me on Twitter (@iKilledAppl3), \n Donate via PayPal (https://paypal.me/iKilledAppl3). \n Support me on Patreon! (https://www.patreon.com/iKilledAppl3)",
+    "LongDescription" : "Let it Snow, Let it Snow, Let it Snow! \n SnowyTV overlays a snow effect in all of your favorite apps! \n Merry Christmas and Happy Holidays! \n Follow me on Twitter (@iKilledAppl3), \n Donate via PayPal (https://paypal.me/iKilledAppl3). \n Support me on Patreon! (https://www.patreon.com/iKilledAppl3) \n Changelog: \n Version 1.0 - Release. \n Version 1.0.1 - Fixed a bug where the snow would overlay on the tvOS 13 Control Center \n Fixes a bug where the Jingle Bells song wouldn't play on the Homescreen while Use In All Apps was enabled. \n Fixes a bug where the tweaks' Settings wouldn't update correctly.\n The Jingle Bells song now plays on loop.,
  "MainTextColor":"ffffff",
  "AppIconURL" : "https://toxicappl3inc.github.io/tvrepo/depictions/SnowyTV/images/SnowyTV.png",
   "BackgroundImageURL" : "https://toxicappl3inc.github.io/tvrepo/depictions/SnowyTV/images/SnowyTVBackground.png",
