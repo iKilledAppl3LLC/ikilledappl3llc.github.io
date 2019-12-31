@@ -1,0 +1,9 @@
+{
+    "LongDescription" : "Party like it's 2012! Harlem Shake for tvOS is finally here! \n Special Thanks to nitoTV for his awesome TVControlCenter tweak! and for @thejailbreakhub for being awesome! \n This (tweak) is actually made up of two types of (tweaks) one is for the Control Center and one is for when your screen goes idle on the homescreen! \n This tweak is inspired by the HarlemShake tweak for iOS \n Follow me on Twitter (@iKilledAppl3), \n Donate via PayPal (https://paypal.me/iKilledAppl3). \n Support me on Patreon! (https://www.patreon.com/iKilledAppl3)",
+ "MainTextColor":"ffffff",
+ "AppIconURL" : "https://toxicappl3inc.github.io/tvrepo/depictions/HarlemShakeTVModule/images/HarlemShakeTVModule.png",
+  "BackgroundImageURL" : "https://toxicappl3inc.github.io/tvrepo/depictions/HarlemShakeTVModule/images/HarlemShake.png",
+"VideoPreviewURL":"https://toxicappl3inc.github.io/tvrepo/depictions/HarlemShakeTVModule/screenshots/HarlemShake.mp4",
+ "Screenshots": ["https://toxicappl3inc.github.io/tvrepo/depictions/HarlemShakeTVModule/screenshots/screenshot.png", "https://toxicappl3inc.github.io/tvrepo/depictions/HarlemShakeTVModule/screenshots/screenshot2.png"
+ ]
+}
