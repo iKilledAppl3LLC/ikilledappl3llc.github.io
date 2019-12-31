@@ -83,23 +83,6 @@ Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/SnowyTV/SnowyTV.json
 Name: SnowyTV
 
-Package: com.ikilledappl3.harlemshaketv
-Version: 1.0-1
-Architecture: appletvos-arm64
-Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
-Installed-Size: 560
-Depends: mobilesubstrate, com.nito.tvcontrolcenter (>= 1.1), com.ikilledappl3.harlemshaketvtweak, firmware (>=13.0)
-Filename: ./com.ikilledappl3.harlemshaketv_1.0-1_appletvos-arm64.deb
-Size: 494892
-MD5sum: e99920be1450c37e8226e050a8b06148
-SHA1: d182d140538483b08edf0d402d356ed3f3da1ff1
-SHA256: 75a66c4ca113bd62a9802e9f634ca668eb10d38df5ecf408f7cee55a3a552ae6
-Section: Tweaks
-Description: Party like it's 2012! Harlem Shake for tvOS!
-Author: iKilledAppl3 <ipodnewbee234@icloud.com>
-Depiction: http://toxicappl3inc.github.io/tvrepo/depictions/HarlemShakeTVModule/HarlemShakeTVModule.json
-Name: HarlemShakeTV (Module)
-
 Package: com.ikilledappl3.harlemshaketvtweak
 Version: 1.0-1
 Architecture: appletvos-arm64
@@ -116,4 +99,21 @@ Description: Party like it's 2012! Harlem Shake for tvOS!
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depiction: http://toxicappl3inc.github.io/tvrepo/depictions/HarlemShakeTVModule/HarlemShakeTVModule.json
 Name: HarlemShakeTV (Tweak)
+
+Package: com.ikilledappl3.harlemshaketv
+Version: 1.0-1
+Architecture: appletvos-arm64
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 560
+Depends: mobilesubstrate, com.nito.tvcontrolcenter (>= 1.1), com.ikilledappl3.harlemshaketvtweak, firmware (>=13.0)
+Filename: ./com.ikilledappl3.harlemshaketv_1.0-1_appletvos-arm64.deb
+Size: 494892
+MD5sum: e99920be1450c37e8226e050a8b06148
+SHA1: d182d140538483b08edf0d402d356ed3f3da1ff1
+SHA256: 75a66c4ca113bd62a9802e9f634ca668eb10d38df5ecf408f7cee55a3a552ae6
+Section: Tweaks
+Description: Party like it's 2012! Harlem Shake for tvOS!
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: http://toxicappl3inc.github.io/tvrepo/depictions/HarlemShakeTVModule/HarlemShakeTVModule.json
+Name: HarlemShakeTV (Module)
 
