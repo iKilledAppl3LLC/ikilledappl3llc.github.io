@@ -117,3 +117,19 @@ Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depiction: http://toxicappl3inc.github.io/tvrepo/depictions/HarlemShakeTVModule/HarlemShakeTVModule.json
 Name: HarlemShakeTV (Module)
 
+Package: com.ikilledappl3.jitterbugtv
+Version: 1.0-1
+Architecture: appletvos-arm64
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 40164
+Depends: mobilesubstrate, preferenceloader, firmware (>=12.0)
+Filename: ./com.ikilledappl3.jitterbugtv_1.0-1_appletvos-arm64.deb
+Size: 40668960
+MD5sum: f667a28d6dfc97392e33769f02cfa53d
+SHA1: 98ce895aa49c771a798ea5d811b5956cb509a7ca
+SHA256: dc1f5ed5dc9f79dd3de67214cf234ae3a8641a0e0749790a7036dd72ec211f8a
+Section: Tweaks
+Description: Play a song while editing your homescreen.
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/JitterBugTV/JitterBugTV.json
+Name: JitterBugTV
