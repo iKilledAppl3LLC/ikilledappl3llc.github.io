@@ -140,15 +140,13 @@ Architecture: appletvos-arm64
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
 Installed-Size: 432
 Depends: mobilesubstrate, preferenceloader, firmware (>=13.0)
-Filename:./com.ikilledappl3.twelvedock_1.0-1_appletvos-arm64.deb
-Size: 271452
-MD5sum: 51ede76b695d448fa661d4b010328030
-SHA1: 00a8d1e9731c288964e521cbab42e1d35a38aefd
-SHA256: a42c23eac58c2da5850b3952c71463b49d7053464b9fe37d27f297a1dd063a8f
+Filename: /Users/ikilledappl3/Documents/Documents stuff/toxicappl3inc.github.io/tvrepo/com.ikilledappl3.twelvedock_1.0-1_appletvos-arm64.deb
+Size: 271430
+MD5sum: 040d0a06dda5d5f9a7567a9dd600f96b
+SHA1: 1a56130f833b0e40a840bbe51b68d13c8451db47
+SHA256: 34ec054c64cf42fb0a3c640f460f5cc4902980362cfcbe9485b57b547c947d6f
 Section: Tweaks
 Description: Bring back the tvOS 12 styled dock to tvOS 13.
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
-Depiction: https://toxicappl3inc.github,io/tvrepo/depictions/TwelveDock/TwelveDock.json
-Icon: file:///Library/PreferenceBundles/TwelveDock.bundle/TwelveDock.png
+Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/TwelveDock/TwelveDock.json
 Name: TwelveDock
-
