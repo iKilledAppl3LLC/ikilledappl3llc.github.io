@@ -67,16 +67,16 @@ Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/Svea/Svea.json
 Name: Svea (Dark Mode Module)
 
 Package: com.ikilledappl3.snowytv
-Version: 1.0.1-1
+Version: 1.0.2-1
 Architecture: appletvos-arm64
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
-Installed-Size: 4540
+Installed-Size: 9104
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
-Filename: ./com.ikilledappl3.snowytv_1.0.1-1_appletvos-arm64.deb
-Size: 4498114
-MD5sum: 4c24a5e45023d1c9d5266c7fcfcce82a
-SHA1: 2345d52664ae4dca0980918390a9b784297edac3
-SHA256: ee9a8b9118626a5d88cb4d847e96f56185d8db4e13bdd489cb628cb06d5b26de
+Filename: ./com.ikilledappl3.snowytv_1.0.2-1_appletvos-arm64.deb
+Size: 9160918
+MD5sum: f9e0b5a940923427cca733779ef1ccd2
+SHA1: b8998b8ec71d71b3a95b66079d9c791cd37b3702
+SHA256: e92c3d8f05ea0162a440dd18c2aca69a831b8718f5fef0870faafbf7d188325c
 Section: Tweaks
 Description: A snowy overlay for tvOS! Merry Christmas!
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
