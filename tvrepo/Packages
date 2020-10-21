@@ -150,3 +150,20 @@ Description: Bring back the tvOS 12 styled dock to tvOS 13.
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/TwelveDock/TwelveDock.json
 Name: TwelveDock
+
+Package: com.ikilledappl3.bigben
+Version: 1.0-1
+Architecture: appletvos-arm64
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 2160
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
+Filename: ./com.ikilledappl3.bigben_1.0-1_appletvos-arm64.deb
+Size: 2033264
+MD5sum: 7a13b5d9bec9c1df2489b5fe4c2976d7
+SHA1: 746053cfa5bce8c59ea3e7c94cffd77f0fc30c2d
+SHA256: 0333e397f1ce454c870eebfbf7f54c33249bd7ca183599bfad1ed11aed32b652
+Section: Tweaks
+Description: Hickory Dickory Dock the mouse ran up the clock! Hear the chimes of BigBen at 12 am/pm!
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/BigBen/BigBen.json
+Name: BigBen
