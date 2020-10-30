@@ -167,3 +167,21 @@ Description: Hickory Dickory Dock the mouse ran up the clock! Hear the chimes of
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/BigBen/BigBen.json
 Name: BigBen
+
+Package: com.ikilledappl3.esme
+Version: 1.0-1
+Architecture: appletvos-arm64
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 644
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Filename: ./com.ikilledappl3.esme_1.0-1_appletvos-arm64.deb
+Size: 487234
+MD5sum: 23a0928fc4b37b99c4060b7098b6b510
+SHA1: 28a77b24d81e9ce4214b39507ac4936ca4a3674e
+SHA256: f6d69067553ba123c2a51c08d475e66b4a26093d9978f31da0f331fb0de7dbcd
+Section: Tweaks
+Description: Adds the time to the tvOS Screensaver.
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/Esme/Esme.json
+Name: Esme
+
