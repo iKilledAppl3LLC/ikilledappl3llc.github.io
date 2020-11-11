@@ -185,3 +185,19 @@ Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/Esme/Esme.json
 Name: Esme
 
+Package: com.ikilledappl3.aerialchanger
+Version: 1.0-1
+Architecture: appletvos-arm64
+Maintainer: iKilledAppl3
+Installed-Size: 448
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0), com.nito.breezy (>= 2.5.2-1), com.imore.tvosavplayer (>= 1.0-2), com.nito.ethereal
+Filename: ./com.ikilledappl3.aerialchanger_1.0-1_appletvos-arm64.deb
+Size: 281124
+MD5sum: 53200c5f83c252dcd370ea6363135a2e
+SHA1: 93ea850133bd9f38ac1f73386f7a9d22a72b89b7
+SHA256: 8a027649c6b4df6e2d76b00816729125429cbb89ca39500d8c9df504e9110e75
+Section: Tweaks
+Description: Custom video screen savers for tvOS!
+Author: iKilledAppl3
+Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/AerialChanger/AerialChanger.json
+Name: AerialChanger
