@@ -202,16 +202,15 @@ Author: iKilledAppl3
 Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/AerialChanger/AerialChanger.json
 Name: AerialChanger
 
-Package: com.ikilleappl3.appletvstartupvideo
-Version: 1.0.1-1
+Package: com.ikilledappl3.appletvstartupvideo
+Version: 1.0-1
 Architecture: appletvos-arm64
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
-Depends: mobilesubstrate, firmware (>= 12.0), com.ikilledappl3.aerialchanger
-Filename: ./com.ikilleappl3.appletvstartupvideo_appletvos-arm64_1.0.1-1.deb
-Size: 17491672
-MD5sum: 56925b71dca38ad89edab053f3d9efbb
-SHA1: ef94418d4cfa4ae6f8f8d2223aa1d14222fa4a29
-SHA256: ea060cdc6a33a762d6ef32735823c3beb9864a45c405891fb14f4b70bb82bca2
+Filename:./com.ikilledappl3.appletvstartupvideo_appletvos-arm64_1.0-1.deb
+Size: 17491614
+MD5sum: 974c7d6e690dc1164d951b5d83611194
+SHA1: f8bdaa14433ab15ad62661198524a7014157ef95
+SHA256: b30cd3171d36deee712b1c1d941ca76dd612e010e60941e68cd554dec450cab5
 Section: Tweaks
 Description: The OG Apple TV startup video as a screensaver!
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
