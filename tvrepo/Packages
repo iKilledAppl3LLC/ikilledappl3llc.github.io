@@ -215,3 +215,35 @@ Section: Tweaks
 Description: The OG Apple TV startup video as a screensaver!
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Name: Apple TV Startup Video
+
+Package: com.ikilledappl3.notanimpostertv
+Version: 1.0-1
+Architecture: appletvos-arm64
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 5400
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
+Filename: ./com.ikilledappl3.notanimpostertv_1.0-1_appletvos-arm64.deb
+Size: 5314156
+MD5sum: c0c9ff8dee501089fde985f94ab9595b
+SHA1: 390adb6f6fd45606e492db0bf4721c70526ce860
+SHA256: 1971b62f7c99388d803815007e12a56e9f5106453753c20651fba62b748a0c4c
+Section: Tweaks
+Description: Among us crewmates ejected onto your homescreen! Original concept by @pixelomer on Twitter.
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/NotAnImposterTV/NotAnImposterTV.json
+Name: NotAnImposterTV
+
+Package: com.ikilledappl3.amongusvoid
+Version: 1.0-1
+Architecture: appletvos-arm64
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./com.ikilledappl3.amongusvoid_appletvos-arm64_1.0-1.deb
+Size: 67223812
+MD5sum: 3becf30abb97492e34c133960bc152ef
+SHA1: 7ea1fb3effebee5bb684631b3af4ed92bf89102a
+SHA256: 0d20be89ac6906a099259577a27207bb50e0b65053a60fafd22c829ce604592c
+Section: Tweaks
+Description: Among Us Space Void screen saver to use with AerialChanger.
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Name: Among Us Space Void Screen Saver
