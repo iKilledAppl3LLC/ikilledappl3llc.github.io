@@ -247,3 +247,20 @@ Section: Tweaks
 Description: Among Us Space Void screen saver to use with AerialChanger.
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Name: Among Us Space Void Screen Saver
+
+Package: com.ikilledappl3.roundedcctv
+Version: 1.0-1
+Architecture: appletvos-arm64
+Maintainer: iKilledAppl3
+Installed-Size: 148
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Filename: ./com.ikilledappl3.roundedcctv_1.0-1_appletvos-arm64.deb
+Size: 6928
+MD5sum: eb0f3537cad5b2953f030befe80ea924
+SHA1: 87a3844c8e8e921e3273f1d2e625fc38ed31a6c0
+SHA256: a6a57bca528ccace35cbd0083f71bf6984e6e7af05659193a29ba7fc06137d10
+Section: Tweaks
+Description: A tvOS 14 "inspired" Control Center for tvOS 13 (Just rounds the corners).
+Author: iKilledAppl3
+Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/RoundedCCTV/RoundedCCTV.json
+Name: RoundedCCTV

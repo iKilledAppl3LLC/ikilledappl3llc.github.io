@@ -1,0 +1,10 @@
+{
+    "LongDescription" : "A tvOS 14 inspired Control Center for tvOS 13. \n Follow me on Twitter (@iKilledAppl3), \n Donate via PayPal (https://paypal.me/iKilledAppl3). \n Support me on Patreon! (https://www.patreon.com/iKilledAppl3) \n Changelog: \n Version 1.0 - Release.",
+ "MainTextColor":"ffffff",
+ "AppIconURL" : "https://toxicappl3inc.github.io/tvrepo/depictions/RoundedCCTV/images/RoundedCCTV.png",
+  "BackgroundImageURL" : "https://toxicappl3inc.github.io/tvrepo/depictions/RoundedCCTV/images/RoundedCCTVBackground.png",
+ "Screenshots":
+ ["https://toxicappl3inc.github.io/tvrepo/depictions/RoundedCCTV/screenshots/screenshot.png"
+ ]
+}
+
