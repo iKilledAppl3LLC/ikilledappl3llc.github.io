@@ -151,40 +151,6 @@ Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/BigBen/BigBen.json
 Name: BigBen
 
-Package: com.ikilledappl3.esme
-Version: 1.0-1
-Architecture: appletvos-arm64
-Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
-Installed-Size: 644
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
-Filename: ./com.ikilledappl3.esme_1.0-1_appletvos-arm64.deb
-Size: 487234
-MD5sum: 23a0928fc4b37b99c4060b7098b6b510
-SHA1: 28a77b24d81e9ce4214b39507ac4936ca4a3674e
-SHA256: f6d69067553ba123c2a51c08d475e66b4a26093d9978f31da0f331fb0de7dbcd
-Section: Tweaks
-Description: Adds the time to the tvOS Screensaver.
-Author: iKilledAppl3 <ipodnewbee234@icloud.com>
-Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/Esme/Esme.json
-Name: Esme
-
-Package: com.ikilledappl3.aerialchanger
-Version: 1.0-1
-Architecture: appletvos-arm64
-Maintainer: iKilledAppl3
-Installed-Size: 448
-Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0), com.nito.breezy (>= 2.5.2-1), com.imore.tvosavplayer (>= 1.0-2), com.nito.ethereal
-Filename: ./com.ikilledappl3.aerialchanger_1.0-1_appletvos-arm64.deb
-Size: 281124
-MD5sum: 53200c5f83c252dcd370ea6363135a2e
-SHA1: 93ea850133bd9f38ac1f73386f7a9d22a72b89b7
-SHA256: 8a027649c6b4df6e2d76b00816729125429cbb89ca39500d8c9df504e9110e75
-Section: Tweaks
-Description: Custom video screen savers for tvOS!
-Author: iKilledAppl3
-Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/AerialChanger/AerialChanger.json
-Name: AerialChanger
-
 Package: com.ikilledappl3.appletvstartupvideo
 Version: 1.0-1
 Architecture: appletvos-arm64
@@ -198,23 +164,6 @@ Section: Tweaks
 Description: The OG Apple TV startup video as a screensaver!
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Name: Apple TV Startup Video
-
-Package: com.ikilledappl3.notanimpostertv
-Version: 1.0-1
-Architecture: appletvos-arm64
-Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
-Installed-Size: 5400
-Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
-Filename: ./com.ikilledappl3.notanimpostertv_1.0-1_appletvos-arm64.deb
-Size: 5314156
-MD5sum: c0c9ff8dee501089fde985f94ab9595b
-SHA1: 390adb6f6fd45606e492db0bf4721c70526ce860
-SHA256: 1971b62f7c99388d803815007e12a56e9f5106453753c20651fba62b748a0c4c
-Section: Tweaks
-Description: Among us crewmates ejected onto your homescreen! Original concept by @pixelomer on Twitter.
-Author: iKilledAppl3 <ipodnewbee234@icloud.com>
-Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/NotAnImposterTV/NotAnImposterTV.json
-Name: NotAnImposterTV
 
 Package: com.ikilledappl3.amongusvoid
 Version: 1.0-1
@@ -264,3 +213,54 @@ Description: Toggle Dark Mode from the control center!
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/Svea/Svea.json
 Name: Svea
+
+Package: com.ikilledappl3.aerialchanger
+Version: 1.0.1-1
+Architecture: appletvos-arm64
+Maintainer: iKilledAppl3
+Installed-Size: 448
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0), com.nito.breezy (>= 2.5.2-1), com.imore.tvosavplayer (>= 1.0-2), com.nito.ethereal
+Filename: ./com.ikilledappl3.aerialchanger_1.0.1-1_appletvos-arm64.deb
+Size: 282270
+MD5sum: 7612bbb3764001a3a67cd550402d17df
+SHA1: f38c319e77bc2344bee6a2e344e8eaa6edb16c5d
+SHA256: a97645b3791634285dea17d0091c7ed478e301003c3954bced3c1c09db06dbf2
+Section: Tweaks
+Description: Custom video screen savers for tvOS!
+Author: iKilledAppl3
+Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/AerialChanger/AerialChanger.json
+Name: AerialChanger
+
+Package: com.ikilledappl3.notanimpostertv
+Version: 1.0.1-1
+Architecture: appletvos-arm64
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 5416
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
+Filename: ./com.ikilledappl3.notanimpostertv_1.0.1-1_appletvos-arm64.deb
+Size: 5315002
+MD5sum: b2b5cf5ebca37af39c88a718a8360646
+SHA1: a3a03da29a9c85adbc3a5226be97e566b2a1d7c3
+SHA256: a5f59ceb5c9f5440f8c85b4b4f22c8b9d78d185167be6bc5f9454905d2138d66
+Section: Tweaks
+Description: Among us crewmates ejected onto your homescreen! Original concept by @pixelomer on Twitter.
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/NotAnImposterTV/NotAnImposterTV.json
+Name: NotAnImposterTV
+
+Package: com.ikilledappl3.esme
+Version: 1.0.1-1
+Architecture: appletvos-arm64
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 644
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Filename: ./com.ikilledappl3.esme_1.0.1-1_appletvos-arm64.deb
+Size: 487570
+MD5sum: b9a2e9c1bdd708dcef325e446ebe6d68
+SHA1: 50f479585df89fa100ce8a364eb74b4a57745cfc
+SHA256: 49a2744153376429351c12ed684ee11fcccd5c8aa88a9efef35ea83e8c3c6ffc
+Section: Tweaks
+Description: Adds the time to the tvOS Screensaver.
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/Esme/Esme.json
+Name: Esme
