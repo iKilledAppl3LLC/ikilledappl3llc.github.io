@@ -249,16 +249,16 @@ Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/NotAnImposterTV/Not
 Name: NotAnImposterTV
 
 Package: com.ikilledappl3.esme
-Version: 1.0.1-1
+Version: 1.0.2-1
 Architecture: appletvos-arm64
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
 Installed-Size: 644
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
-Filename: ./com.ikilledappl3.esme_1.0.1-1_appletvos-arm64.deb
-Size: 487570
-MD5sum: b9a2e9c1bdd708dcef325e446ebe6d68
-SHA1: 50f479585df89fa100ce8a364eb74b4a57745cfc
-SHA256: 49a2744153376429351c12ed684ee11fcccd5c8aa88a9efef35ea83e8c3c6ffc
+Filename: ./com.ikilledappl3.esme_1.0.2-1_appletvos-arm64.deb
+Size: 487548
+MD5sum: 0d96e97130c2c2fa1cfe7d4f80b7729c
+SHA1: 9ce45137602ec8c5226175cb05b573fb2edd3f71
+SHA256: d49d92bdd6332b428f2131d08c0e74a9f4409daf35ec7b84ef85218c049b4b45
 Section: Tweaks
 Description: Adds the time to the tvOS Screensaver.
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
