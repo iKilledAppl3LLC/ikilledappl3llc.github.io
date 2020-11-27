@@ -1,5 +1,5 @@
 {
- "LongDescription" : "Bring back the sleep menu alert from tvOS 12 to tvOS 13 (This disables the control center). \n This tweak is open sourced on GitHub! (https://github.com/iKilledAppl3/BringBackSleep/) \n Follow me on Twitter @iKilledAppl3 and Donate via PayPal (https://paypal.me/iKilledAppl3) or Patreon! (https://www.patreon.com/iKilledAppl3) \n Configure options in the settings application.",
+ "LongDescription" : "Bring back the sleep menu alert from tvOS 12 to tvOS 13+ (This disables the control center). \n This tweak is open sourced on GitHub! (https://github.com/iKilledAppl3/BringBackSleep/) \n Follow me on Twitter @iKilledAppl3 and Donate via PayPal (https://paypal.me/iKilledAppl3) or Patreon! (https://www.patreon.com/iKilledAppl3) \n Configure options in the settings application.",
  "MainTextColor":"ffffff",
  "BackgroundColor":"0066ff",
  "AppIconURL" : "https://toxicappl3inc.github.io/tvrepo/depictions/NoSleepTilBrooklyn/images/NoSleepTilBrooklyn.jpg",

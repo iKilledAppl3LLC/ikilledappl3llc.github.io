@@ -49,23 +49,6 @@ Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/NoSleepTilBrooklyn/NoSleepTilBrooklyn.json
 Name: NoSleepTilBrooklyn
 
-Package: com.ikilledappl3.svea
-Version: 1.0-1
-Architecture: appletvos-arm64
-Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
-Installed-Size: 112
-Depends: mobilesubstrate, com.nito.tvcontrolcenter, firmware (>=13.0)
-Filename: ./com.ikilledappl3.svea_1.0-1_appletvos-arm64.deb
-Size: 14914
-MD5sum: 95ea858880e1ad9be07e70f28eda3c64
-SHA1: 770659ca2ce609b5f8343f6349df281fb98a5c96
-SHA256: 0dfc873204b76d386bc95ea711c9b7534efb4fc2c42c6add0d0529458e60f9bb
-Section: Tweaks
-Description: Toggle Dark Mode from the control center!
-Author: iKilledAppl3 <ipodnewbee234@icloud.com>
-Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/Svea/Svea.json
-Name: Svea (Dark Mode Module)
-
 Package: com.ikilledappl3.snowytv
 Version: 1.0.3-1
 Architecture: appletvos-arm64
@@ -264,3 +247,20 @@ Description: A tvOS 14 "inspired" Control Center for tvOS 13 (Just rounds the co
 Author: iKilledAppl3
 Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/RoundedCCTV/RoundedCCTV.json
 Name: RoundedCCTV
+
+Package: com.ikilledappl3.svea
+Version: 1.0.1-1
+Architecture: appletvos-arm64
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 88
+Depends: mobilesubstrate, com.nito.tvcontrolcenter, firmware (>=13.0)
+Filename: ./com.ikilledappl3.svea_1.0.1-1_appletvos-arm64.deb
+Size: 10720
+MD5sum: 6fee8d67c744bc6b4d638868a9d7216e
+SHA1: 83f8669ebf45e830d189c43c5f86215385ce8c3c
+SHA256: 7a519fa07aaadb3cd66bad39567bcb6667f93926218c7f4906c137456f36a9a8
+Section: Tweaks
+Description: Toggle Dark Mode from the control center!
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/Svea/Svea.json
+Name: Svea
