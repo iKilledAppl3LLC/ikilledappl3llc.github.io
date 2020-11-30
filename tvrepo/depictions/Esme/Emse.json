@@ -1,9 +1,0 @@
-{
- "LongDescription" : "Who knows? Only Time. or However that Enya song went \n This adds the time to the screensaver view on tvOS! \n Follow me on Twitter (@iKilledAppl3), \n Donate via PayPal (https://paypal.me/iKilledAppl3). \n Support me on Patreon! (https://www.patreon.com/iKilledAppl3) \n Changelog: \n Version 1.0 - Release. \n Version 1.0.1-1 Update for tvOS 14 \n Version 1.0.2-1 Fixes duplicate time bug.",
- "MainTextColor":"ffffff",
- "AppIconURL" : "https://toxicappl3inc.github.io/tvrepo/depictions/Esme/images/Esme.png",
-  "BackgroundImageURL" : "https://toxicappl3inc.github.io/tvrepo/depictions/Esme/images/EsmeBackground.png",
-  "Screenshots":
- ["https://toxicappl3inc.github.io/tvrepo/depictions/Esme/screenshots/screenshot.png"
- ]
-}
