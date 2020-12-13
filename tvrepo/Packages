@@ -266,18 +266,19 @@ Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/Esme/Esme.json
 Name: Esme
 
 Package: com.ikilledappl3.recordmodule
-Version: 1.0-1
+Version: 1.0.1-1
 Architecture: appletvos-arm64
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
 Installed-Size: 172
-Depends: mobilesubstrate, com.nito.tvcontrolcenter (>= 1.1), com.nito.bulletinh4x, firmware (>=13.0)
-Filename: ./com.ikilledappl3.recordmodule_1.0-1_appletvos-arm64.deb
-Size: 49964
-MD5sum: 9571514281adfa1f94e57fd2e6dff4bb
-SHA1: 065af729fcf021a25067becbcc72626e3cda1a9f
-SHA256: 97a83b12d58bb1682976896d4071fc9e19545ed6ad6e53d879c02d111a3e391c
+Depends: mobilesubstrate, com.nito.tvcontrolcenter (>= 1.1), com.nito.breezy (>= 2.5.2-1), com.nito.bulletinh4x, firmware (>=13.0)
+Filename: ./com.ikilledappl3.recordmodule_1.0.1-1_appletvos-arm64.deb
+Size: 49636
+MD5sum: 653ffa96ef6c5dc99c9660588f94cde0
+SHA1: 7839a3319615022f6312d65a2aa798929cf8e101
+SHA256: f3a93027bdffad1ead0589bdc14c48f3a087fa4e8992afd16fe42c1ad5bc1420
 Section: Tweaks
 Description: Record your tvOS screen with ease.
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/ScreenRecordModule/ScreenRecordModule.json
 Name: Screen Record Module
 
