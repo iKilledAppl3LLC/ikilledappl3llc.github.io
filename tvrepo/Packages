@@ -151,35 +151,6 @@ Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/BigBen/BigBen.json
 Name: BigBen
 
-Package: com.ikilledappl3.appletvstartupvideo
-Version: 1.0-1
-Architecture: appletvos-arm64
-Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
-Filename:./com.ikilledappl3.appletvstartupvideo_appletvos-arm64_1.0-1.deb
-Size: 17491614
-MD5sum: 974c7d6e690dc1164d951b5d83611194
-SHA1: f8bdaa14433ab15ad62661198524a7014157ef95
-SHA256: b30cd3171d36deee712b1c1d941ca76dd612e010e60941e68cd554dec450cab5
-Section: Tweaks
-Description: The OG Apple TV startup video as a screensaver!
-Author: iKilledAppl3 <ipodnewbee234@icloud.com>
-Name: Apple TV Startup Video
-
-Package: com.ikilledappl3.amongusvoid
-Version: 1.0-1
-Architecture: appletvos-arm64
-Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./com.ikilledappl3.amongusvoid_appletvos-arm64_1.0-1.deb
-Size: 67223812
-MD5sum: 3becf30abb97492e34c133960bc152ef
-SHA1: 7ea1fb3effebee5bb684631b3af4ed92bf89102a
-SHA256: 0d20be89ac6906a099259577a27207bb50e0b65053a60fafd22c829ce604592c
-Section: Tweaks
-Description: Among Us Space Void screen saver to use with AerialChanger.
-Author: iKilledAppl3 <ipodnewbee234@icloud.com>
-Name: Among Us Space Void Screen Saver
-
 Package: com.ikilledappl3.roundedcctv
 Version: 1.0-1
 Architecture: appletvos-arm64
@@ -282,3 +253,31 @@ Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/ScreenRecordModule/ScreenRecordModule.json
 Name: Screen Record Module
 
+Package: com.ikilledappl3.amongusvoid
+Version: 1.0.1-1
+Architecture: appletvos-arm64
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./com.ikilledappl3.amongusvoid_appletvos-arm64_1.0.1-1.deb
+Size: 6890698
+MD5sum: 7e9a178110b922d5aae26dd6718ca876
+SHA1: 08fa4f3f9983e144af810948eb5a1050bb6685dd
+SHA256: b20b763e9a26ddff257b30efd192fe0a5dac01d1c981034c4aeeced9825fdd0b
+Section: Tweaks
+Description: Among Us Space Void screen saver to use with AerialChanger.
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Name: Among Us Space Void Screen Saver
+
+Package: com.ikilledappl3.appletvstartupvideo
+Version: 1.0.1-1
+Architecture: appletvos-arm64
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Filename:./com.ikilledappl3.appletvstartupvideo_appletvos-arm64_1.0.1-1.deb
+Size: 10965824
+MD5sum: 656fc1fdf83f6778a02df8b198c037c4
+SHA1: 85cde9ea23da31f6f24ef4c639a693a4f7225f28
+SHA256: fc345daba913871e7b2c9fcc89811e134ede4423aad84820c3f7bf81ef07914f
+Section: Tweaks
+Description: The OG Apple TV startup video as a screensaver!
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Name: Apple TV Startup Video
