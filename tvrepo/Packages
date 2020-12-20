@@ -236,23 +236,6 @@ Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/Esme/Esme.json
 Name: Esme
 
-Package: com.ikilledappl3.recordmodule
-Version: 1.0.1-1
-Architecture: appletvos-arm64
-Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
-Installed-Size: 172
-Depends: mobilesubstrate, com.nito.tvcontrolcenter (>= 1.1), com.nito.breezy (>= 2.5.2-1), com.nito.bulletinh4x, firmware (>=13.0)
-Filename: ./com.ikilledappl3.recordmodule_1.0.1-1_appletvos-arm64.deb
-Size: 49636
-MD5sum: 653ffa96ef6c5dc99c9660588f94cde0
-SHA1: 7839a3319615022f6312d65a2aa798929cf8e101
-SHA256: f3a93027bdffad1ead0589bdc14c48f3a087fa4e8992afd16fe42c1ad5bc1420
-Section: Tweaks
-Description: Record your tvOS screen with ease.
-Author: iKilledAppl3 <ipodnewbee234@icloud.com>
-Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/ScreenRecordModule/ScreenRecordModule.json
-Name: Screen Record Module
-
 Package: com.ikilledappl3.amongusvoid
 Version: 1.0.1-1
 Architecture: appletvos-arm64
@@ -281,3 +264,20 @@ Section: Tweaks
 Description: The OG Apple TV startup video as a screensaver!
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Name: Apple TV Startup Video
+
+Package: com.ikilledappl3.recordmodule
+Version: 1.0.2-1
+Architecture: appletvos-arm64
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 172
+Depends: mobilesubstrate, com.nito.tvcontrolcenter (>= 1.1), com.nito.breezy (>= 2.5.2-1), com.nito.bulletinh4x, firmware (>=14.0), com.nito.ethereal
+Filename: ./com.ikilledappl3.recordmodule_1.0.2-1_appletvos-arm64.deb
+Size: 49906
+MD5sum: 2e29c4987df022a92fc1247dc28aa355
+SHA1: d77d372ab3d32ae40f62edc8e060092006f46216
+SHA256: 26ed4a06def42f8cbfaf19a2f08176749336bb88ce51a8763d26919d9fe4b027
+Section: Tweaks
+Description: Record your tvOS screen with ease.
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/ScreenRecordModule/ScreenRecordModule.json
+Name: Screen Record Module
