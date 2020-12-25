@@ -281,3 +281,20 @@ Description: Record your tvOS screen with ease.
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/ScreenRecordModule/ScreenRecordModule.json
 Name: Screen Record Module
+
+Package: com.ikilledappl3.malipotv
+Version: 1.0-1
+Architecture: appletvos-arm64
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 3432
+Depends: mobilesubstrate, preferenceloader
+Filename: /Users/ikilledappl3/Documents/Documents stuff/toxicappl3inc.github.io/tvrepo/com.ikilledappl3.malipotv_1.0-1_appletvos-arm64.deb
+Size: 1778794
+MD5sum: 33bfb616e6fd3dc2d46ed56e01deb754
+SHA1: 075bb4295142d15b6e7a9579dcb5ed3532131bd6
+SHA256: 0c3a783236265414e85745df86ef8c7529a3a05536fa0019eb1484f216c1a0b0
+Section: Tweaks
+Description: Custom Charge Sounds with a twist!
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/MalipoTV/MalipoTV.json
+Name: MalipoTV
