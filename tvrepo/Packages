@@ -288,7 +288,7 @@ Architecture: appletvos-arm64
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
 Installed-Size: 3432
 Depends: mobilesubstrate, preferenceloader
-Filename: /Users/ikilledappl3/Documents/Documents stuff/toxicappl3inc.github.io/tvrepo/com.ikilledappl3.malipotv_1.0-1_appletvos-arm64.deb
+Filename: ./com.ikilledappl3.malipotv_1.0-1_appletvos-arm64.deb
 Size: 1778794
 MD5sum: 33bfb616e6fd3dc2d46ed56e01deb754
 SHA1: 075bb4295142d15b6e7a9579dcb5ed3532131bd6
