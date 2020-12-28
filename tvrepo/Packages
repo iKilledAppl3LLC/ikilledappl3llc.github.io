@@ -300,16 +300,16 @@ Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/MalipoTV/MalipoTV.j
 Name: MalipoTV
 
 Package: com.ikilledappl3.applejuice
-Version: 1.0.1-1
+Version: 1.0.2-1
 Architecture: appletvos-arm64
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
 Installed-Size: 76
 Depends: mobilesubstrate, com.nito.tvcontrolcenter (>= 1.1), firmware (>=13.0)
-Filename: ./com.ikilledappl3.applejuice_1.0.1-1_appletvos-arm64.deb
+Filename: ./com.ikilledappl3.applejuice_1.0.2-1_appletvos-arm64.deb
 Size: 5144
-MD5sum: 54a986f9aa8c145bd272c629c7bba596
-SHA1: 8a161288a90fa133e967e9d0311beb53339ba49a
-SHA256: 2f6c33117adb0bef8b28d422768d5397e2b8411fdb63e4e78c10a96911e36bae
+MD5sum: 252c44fc1a98a74ecb64fadb376ddb94
+SHA1: fa017b284f2ebeca79ce1eb41a8817fed7567646
+SHA256: e4d5b044d098a9262e4cb91389cfb09c8d7b2904f24131f13662005e60478a0e
 Section: Tweaks
 Description: Siri Remote battery info in a flash!
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
