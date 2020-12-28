@@ -185,23 +185,6 @@ Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/Svea/Svea.json
 Name: Svea
 
-Package: com.ikilledappl3.aerialchanger
-Version: 1.0.1-1
-Architecture: appletvos-arm64
-Maintainer: iKilledAppl3
-Installed-Size: 448
-Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0), com.nito.breezy (>= 2.5.2-1), com.imore.tvosavplayer (>= 1.0-2), com.nito.ethereal
-Filename: ./com.ikilledappl3.aerialchanger_1.0.1-1_appletvos-arm64.deb
-Size: 282270
-MD5sum: 7612bbb3764001a3a67cd550402d17df
-SHA1: f38c319e77bc2344bee6a2e344e8eaa6edb16c5d
-SHA256: a97645b3791634285dea17d0091c7ed478e301003c3954bced3c1c09db06dbf2
-Section: Tweaks
-Description: Custom video screen savers for tvOS!
-Author: iKilledAppl3
-Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/AerialChanger/AerialChanger.json
-Name: AerialChanger
-
 Package: com.ikilledappl3.notanimpostertv
 Version: 1.0.1-1
 Architecture: appletvos-arm64
@@ -315,3 +298,20 @@ Description: Siri Remote battery info in a flash!
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/AppleJuice/AppleJuice.json
 Name: Apple Juice (Siri Remote Battery Module)
+
+Package: com.ikilledappl3.aerialchanger
+Version: 1.0.2-1
+Architecture: appletvos-arm64
+Maintainer: iKilledAppl3
+Installed-Size: 248
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0), com.nito.breezy (>= 2.5.2-1), com.imore.tvosavplayer (>= 1.0-2), com.nito.ethereal
+Filename: ./com.ikilledappl3.aerialchanger_1.0.2-1_appletvos-arm64.deb
+Size: 107904
+MD5sum: 81f79898c9503b7f4b3d189392a5cfa1
+SHA1: 83a7c07defe74b9cc0251700eaac63eae134775b
+SHA256: 2c5957dacf748e2699606de2577a21d5fb53059850a06f3a59a1f8a6fac3ec08
+Section: Tweaks
+Description: Custom video screen savers for tvOS!
+Author: iKilledAppl3
+Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/AerialChanger/AerialChanger.json
+Name: AerialChanger
