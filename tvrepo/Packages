@@ -315,3 +315,21 @@ Description: Custom video screen savers for tvOS!
 Author: iKilledAppl3
 Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/AerialChanger/AerialChanger.json
 Name: AerialChanger
+
+Package: com.ikilledappl3.recordmodule
+Version: 1.0.3-1
+Architecture: appletvos-arm64
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 172
+Depends: mobilesubstrate, com.nito.tvcontrolcenter (>= 1.1), com.nito.breezy (>= 2.5.2-1), com.nito.bulletinh4x, firmware (>=14.0), com.nito.ethereal
+Filename: ./com.ikilledappl3.recordmodule_1.0.3-1_appletvos-arm64.deb
+Size: 50268
+MD5sum: 6ccba44b562b71f20d64553c3c35330f
+SHA1: a46c9d59edcd8658756d8634b07eef1f4247257e
+SHA256: 34e327bd8348f311c304df14554dabfbe8a48f1366d34a1410731070b6a88e5c
+Section: Tweaks
+Description: Record your tvOS screen with ease.
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/ScreenRecordModule/ScreenRecordModule.json
+Name: Screen Record Module
+
