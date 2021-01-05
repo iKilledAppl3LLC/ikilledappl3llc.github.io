@@ -323,12 +323,12 @@ Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
 Installed-Size: 240
 Depends: mobilesubstrate, preferenceloader, firmware (>=12.0), com.nito.screencapture
 Filename: ./com.ikilledappl3.addilynne_1.0-1_appletvos-arm64.deb
-Size: 101170
-MD5sum: a4834790ba082b9b512f49b3dafb1c96
-SHA1: 513ba6ada3d501f0d823f32ab490b698b21f631f
-SHA256: e4b4cf95a1e02104baf541f96a7c1c02990c0634aa09e5da2f02aebf70172af7
+Size: 101178
+MD5sum: 771e0fb5af046aae30f1f62e5c347e34
+SHA1: baf7e3cbeb9e53166d9bec718c2728a3340aafee
+SHA256: 861ccbe94d37e79237a4d340c271376c36ff3041f50a248daefe642bd7a208b2
 Section: Tweaks
 Description: Double click the menu button to take a screenshot.
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
-Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/Addilynne/Addulynne.json
+Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/Addilynne/Addilynne.json
 Name: Addilynne
