@@ -1,14 +1,14 @@
 Package: com.ikilledappl3.hidemydocktv
-Version: 1.1-1
+Version: 1.1.1-1
 Architecture: appletvos-arm64
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
 Installed-Size: 304
 Depends: mobilesubstrate, preferenceloader, firmware (>=13.0)
-Filename: ./com.ikilledappl3.hidemydocktv_1.1-1_appletvos-arm64.deb
-Size: 152298
-MD5sum: e016189bc466efc2d1a2b2ea31bac0ac
-SHA1: fb376362a1023a1cd1c3366be23a62bc326e98fe
-SHA256: 03420fcf064da9da0a13674db4d685c79ce4556dfe8b65299987d5fdec73b123
+Filename: ./com.ikilledappl3.hidemydocktv_1.1.1-1_appletvos-arm64.deb
+Size: 152156
+MD5sum: 4ec9dced07e2e4023bcf40016ea27f69
+SHA1: d22ede9473edb6554cfa8bb20e8eee3d82bb18de
+SHA256: 01365967f3ae9f4a8b826f3c2a7a0a8d980620b449cb233185633fd337aaf2e1
 Section: Tweaks
 Description: Hide the dock from tvOS.
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
@@ -33,18 +33,18 @@ Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/PieCrustTV/PieCrust
 Name: PieCrustTV
 
 Package: com.ikilledappl3.bringbacksleep
-Version: 1.0-1
+Version: 1.0.1-1
 Architecture: appletvos-arm64
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
-Installed-Size: 1496
+Installed-Size: 576
 Depends: mobilesubstrate, preferenceloader, firmware (>=13.0)
-Filename: ./com.ikilledappl3.bringbacksleep_1.0-1_appletvos-arm64.deb
-Size: 1366682
-MD5sum: 22579845316d96e456756696221f7f8d
-SHA1: e31074fd7eb676317d920c0f9155e852cd273fe5
-SHA256: db351553b3f3bd06cdb7390473cdf5595f1f9d8f41956956a576db390d614315
+Filename: ./com.ikilledappl3.bringbacksleep_1.0.1-1_appletvos-arm64.deb
+Size: 448898
+MD5sum: 7a4ef4c6630bc3c82630d57f3cf4ca2c
+SHA1: 62814f15dd7e824d1a3ea2b7c682a5877e5ca254
+SHA256: 5815d2d64a3cb9a1153b4d9035a9420cc9ca098872540d79a3afea185ff4e02a
 Section: Tweaks
-Description: Bring back the sleep alert from tvOS 12 to tvOS 13. (Disables the Control Center)
+Description: Bring back the sleep alert from tvOS 12 to tvOS 13+. (Disables the Control Center)
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/NoSleepTilBrooklyn/NoSleepTilBrooklyn.json
 Name: NoSleepTilBrooklyn
@@ -135,16 +135,16 @@ Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/TwelveDock/TwelveDo
 Name: TwelveDock
 
 Package: com.ikilledappl3.bigben
-Version: 1.0-1
+Version: 1.0.1-1
 Architecture: appletvos-arm64
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
-Installed-Size: 2160
+Installed-Size: 1956
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
-Filename: ./com.ikilledappl3.bigben_1.0-1_appletvos-arm64.deb
-Size: 2033264
-MD5sum: 7a13b5d9bec9c1df2489b5fe4c2976d7
-SHA1: 746053cfa5bce8c59ea3e7c94cffd77f0fc30c2d
-SHA256: 0333e397f1ce454c870eebfbf7f54c33249bd7ca183599bfad1ed11aed32b652
+Filename: ./com.ikilledappl3.bigben_1.0.1-1_appletvos-arm64.deb
+Size: 1851598
+MD5sum: e6c40f3648b251e31ffbadd8f17361f4
+SHA1: 1aa35f6369b3b5bcb34ba5525635d3b3c8182f63
+SHA256: d024450faac072614d96f083a3711b0d5676b1d5d559918f5144278f51d4461a
 Section: Tweaks
 Description: Hickory Dickory Dock the mouse ran up the clock! Hear the chimes of BigBen at 12 am/pm!
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
@@ -203,16 +203,16 @@ Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/NotAnImposterTV/Not
 Name: NotAnImposterTV
 
 Package: com.ikilledappl3.esme
-Version: 1.0.3-1
+Version: 1.0.4-1
 Architecture: appletvos-arm64
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
-Installed-Size: 644
+Installed-Size: 336
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
-Filename: ./com.ikilledappl3.esme_1.0.3-1_appletvos-arm64.deb
-Size: 487538
-MD5sum: 0fbd5f33e8afdac9c1a3c33cd9baff4e
-SHA1: 5ad252169cfba94ed1ed62bbb55daacb96569a08
-SHA256: c923d14f3806b90117127d3ef8e1347804503093cb6a74345f9674ed60a1bbc4
+Filename: ./com.ikilledappl3.esme_1.0.4-1_appletvos-arm64.deb
+Size: 200314
+MD5sum: b650e83e28ba4cc87d27eb3e94527fcd
+SHA1: 584e7220c22b3c6211a3344c5feaa688f0084844
+SHA256: f46573a5d9feaacdc619b0e884ef62b56e7a3c215f6778220ae5972c13336ab9
 Section: Tweaks
 Description: Adds the time to the tvOS Screensaver.
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
@@ -266,16 +266,16 @@ Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/AppleJuice/AppleJui
 Name: Apple Juice (Siri Remote Battery Module)
 
 Package: com.ikilledappl3.aerialchanger
-Version: 1.0.2-1
+Version: 1.0.3-1
 Architecture: appletvos-arm64
 Maintainer: iKilledAppl3
-Installed-Size: 248
+Installed-Size: 252
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0), com.nito.breezy (>= 2.5.2-1), com.imore.tvosavplayer (>= 1.0-2), com.nito.ethereal
-Filename: ./com.ikilledappl3.aerialchanger_1.0.2-1_appletvos-arm64.deb
-Size: 107904
-MD5sum: 81f79898c9503b7f4b3d189392a5cfa1
-SHA1: 83a7c07defe74b9cc0251700eaac63eae134775b
-SHA256: 2c5957dacf748e2699606de2577a21d5fb53059850a06f3a59a1f8a6fac3ec08
+Filename: ./com.ikilledappl3.aerialchanger_1.0.3-1_appletvos-arm64.deb
+Size: 108816
+MD5sum: 845d028de2b84d42315f708de8c42bf9
+SHA1: a0c54d6a0a6025cf9125da6494f23c89012bf7d5
+SHA256: fdeb7d2ec52242096cd148c0ec0573d5e8780d3d24194883e8e5f05c70611200
 Section: Tweaks
 Description: Custom video screen savers for tvOS!
 Author: iKilledAppl3
