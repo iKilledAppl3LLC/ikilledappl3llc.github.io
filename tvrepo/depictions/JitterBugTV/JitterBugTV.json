@@ -1,5 +1,5 @@
 {
-    "LongDescription" : "Oh Boy I got the jitters! \n JitterBugTV plays a song while editing your homescreen. \n You can also place your own songs in /Library/Application Support/JitterBugTV/Songs and the tweak will see them from within the song selection list! \n Follow me on Twitter (@iKilledAppl3), \n Donate via PayPal (https://paypal.me/iKilledAppl3). \n Support me on Patreon! (https://www.patreon.com/iKilledAppl3) \n Changelog: \n Version 1.0 - Release.",
+    "LongDescription" : "Oh Boy I got the jitters! \n JitterBugTV plays a song while editing your homescreen. \n You can also place your own songs in /Library/Application Support/JitterBugTV/Songs and the tweak will see them from within the song selection list! \n Follow me on Twitter (@iKilledAppl3), \n Donate via PayPal (https://paypal.me/iKilledAppl3). \n Support me on Patreon! (https://www.patreon.com/iKilledAppl3) \n Changelog: \n Version 1.0 - Release. \n Version 1.0.1-1 Preferences fixes, added a preview song button and stop song button.",
  "MainTextColor":"ffffff",
  "AppIconURL" : "https://toxicappl3inc.github.io/tvrepo/depictions/JitterBugTV/images/JitterBugTV.png",
   "BackgroundImageURL" : "https://toxicappl3inc.github.io/tvrepo/depictions/JitterBugTV/images/JitterBugTVBackground.png",
