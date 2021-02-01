@@ -16,16 +16,16 @@ Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/HideMyDockTV/HideMy
 Name: HideMyDockTV
 
 Package: com.ikilledappl3.piecrusttv
-Version: 1.0-1
+Version: 1.0.1-1
 Architecture: appletvos-arm64
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
-Installed-Size: 456
+Installed-Size: 392
 Depends: mobilesubstrate, preferenceloader, firmware (>=13.0)
-Filename:./com.ikilledappl3.piecrusttv_1.0-1_appletvos-arm64.deb
-Size: 295444
-MD5sum: a7f7514980716ac205854bf8932a6cf2
-SHA1: 63c74cdcd3f77f164d52799ac0911482112f8713
-SHA256: 4a58319d1351a4dfa253802ef689d037f9853eeab3ae3a65183ca17ca305d4db
+Filename: ./com.ikilledappl3.piecrusttv_1.0.1-1_appletvos-arm64.deb
+Size: 237756
+MD5sum: 9d8bbf5c44ce0fddd156c05ee2afb44c
+SHA1: 34f796a3c13cb22c3f33e7bfc1eb3a6d61020f22
+SHA256: 43adf1f25c5e7aa4ab119338941d965fcda6e23737dc4a0a343e94f165aeed5a
 Section: Tweaks
 Description: Add a percentage while downloading an application.
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
@@ -50,16 +50,16 @@ Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/NoSleepTilBrooklyn/
 Name: NoSleepTilBrooklyn
 
 Package: com.ikilledappl3.snowytv
-Version: 1.0.3-1
+Version: 1.0.4-1
 Architecture: appletvos-arm64
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
-Installed-Size: 9104
+Installed-Size: 9284
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
-Filename: ./com.ikilledappl3.snowytv_1.0.3-1_appletvos-arm64.deb
-Size: 9160888
-MD5sum: a4c097afcffe69e4cf38d14d19c63b94
-SHA1: a96195d6fe6145ef750c04ee7e0162fcb830cae4
-SHA256: 078586e874255cf9884fbfb3e5edd7bafb9531068f4f994a6c661d944adf5fcd
+Filename: ./com.ikilledappl3.snowytv_1.0.4-1_appletvos-arm64.deb
+Size: 9349278
+MD5sum: 96359b84f3f60db393ffbde911a110e3
+SHA1: d8e619dcee5ab3bbcbc2dd9605a6e5dc3e5da81f
+SHA256: 8d85dff16628553a85aaf587c94f6a10776a4106c340e3d62d89415d16a1f871
 Section: Tweaks
 Description: A snowy overlay for tvOS! Merry Christmas!
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
@@ -67,16 +67,16 @@ Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/SnowyTV/SnowyTV.jso
 Name: SnowyTV
 
 Package: com.ikilledappl3.harlemshaketvtweak
-Version: 1.0-1
+Version: 1.0.1-1
 Architecture: appletvos-arm64
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
-Installed-Size: 340
+Installed-Size: 228
 Depends: mobilesubstrate, preferenceloader, com.ikilledappl3.harlemshaketv, firmware (>= 13.0)
-Filename: ./com.ikilledappl3.harlemshaketvtweak_1.0-1_appletvos-arm64.deb
-Size: 176688
-MD5sum: b9838d646cf85f163be7cfa55baad261
-SHA1: 775ce114efa1606a36ecb6d7e2c2fc75c3ab241d
-SHA256: ae04f884f45665cd0c952028f47591188a85688789a3a6b4b6547847aed8689b
+Filename: ./com.ikilledappl3.harlemshaketvtweak_1.0.1-1_appletvos-arm64.deb
+Size: 84776
+MD5sum: d1da7d0e034e5542f8c84e22061d2081
+SHA1: 31f50d557c169069faae9edc92892234bb19f79b
+SHA256: 4020bc9593f980090002a761c2f5b3f884541553d98a753cb03504e2851d86b7
 Section: Tweaks
 Description: Party like it's 2012! Harlem Shake for tvOS!
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
@@ -118,16 +118,16 @@ Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/JitterBugTV/JitterB
 Name: JitterBugTV
 
 Package: com.ikilledappl3.twelvedock
-Version: 1.0-1
+Version: 1.0.1-1
 Architecture: appletvos-arm64
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
-Installed-Size: 432
+Installed-Size: 364
 Depends: mobilesubstrate, preferenceloader, firmware (>=13.0)
-Filename: ./com.ikilledappl3.twelvedock_1.0-1_appletvos-arm64.deb
-Size: 271430
-MD5sum: 040d0a06dda5d5f9a7567a9dd600f96b
-SHA1: 1a56130f833b0e40a840bbe51b68d13c8451db47
-SHA256: 34ec054c64cf42fb0a3c640f460f5cc4902980362cfcbe9485b57b547c947d6f
+Filename: ./com.ikilledappl3.twelvedock_1.0.1-1_appletvos-arm64.deb
+Size: 207904
+MD5sum: 070bf1ad6cce417d6cc9dece1e2a6e81
+SHA1: 266b14c5c9477b5e445f39c9a580be6e8d95e723
+SHA256: 6087b12c896b0360cb1bcfa1c056dd98b50bf41607a19f8d5230791b388eff63
 Section: Tweaks
 Description: Bring back the tvOS 12 styled dock to tvOS 13.
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
