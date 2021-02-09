@@ -186,16 +186,16 @@ Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/Svea/Svea.json
 Name: Svea
 
 Package: com.ikilledappl3.notanimpostertv
-Version: 1.0.1-1
+Version: 1.0.2-1
 Architecture: appletvos-arm64
 Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
-Installed-Size: 5416
+Installed-Size: 6520
 Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
-Filename: ./com.ikilledappl3.notanimpostertv_1.0.1-1_appletvos-arm64.deb
-Size: 5315002
-MD5sum: b2b5cf5ebca37af39c88a718a8360646
-SHA1: a3a03da29a9c85adbc3a5226be97e566b2a1d7c3
-SHA256: a5f59ceb5c9f5440f8c85b4b4f22c8b9d78d185167be6bc5f9454905d2138d66
+Filename: ./com.ikilledappl3.notanimpostertv_1.0.2-1_appletvos-arm64.deb
+Size: 6437294
+MD5sum: b61585ee8b093797504c8fb7c4bc2129
+SHA1: f19b1366fb51d566d8b38daa5a3ac95a14d0d73d
+SHA256: c481f81e59fbd5d36775f0839bc6ac4839e0c6bf14fee0fadb9bd15cdb3b8328
 Section: Tweaks
 Description: Among us crewmates ejected onto your homescreen! Original concept by @pixelomer on Twitter.
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>

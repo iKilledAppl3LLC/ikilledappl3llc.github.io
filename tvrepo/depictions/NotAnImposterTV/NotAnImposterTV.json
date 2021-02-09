@@ -1,5 +1,5 @@
 {
-    "LongDescription" : "nitoTV was not the imposter! \n NotAnImposterTV is a tweak that overlays the ejected Among Us characters over the homescreen and screen saver! \n Based on the popular iOS tweak by @pixelomer (follow him on Twitter)! \n Follow me on Twitter (@iKilledAppl3), \n Donate via PayPal (https://paypal.me/iKilledAppl3). \n Support me on Patreon! (https://www.patreon.com/iKilledAppl3) \n Changelog: \n Version 1.0 - Release. \n Version 1.0.1-1 Update for tvOS 14",
+    "LongDescription" : "nitoTV was not the imposter! \n NotAnImposterTV is a tweak that overlays the ejected Among Us characters over the homescreen and screen saver! \n Based on the popular iOS tweak by @pixelomer (follow him on Twitter)! \n Follow me on Twitter (@iKilledAppl3), \n Donate via PayPal (https://paypal.me/iKilledAppl3). \n Support me on Patreon! (https://www.patreon.com/iKilledAppl3) \n Changelog: \n Version 1.0 - Release. \n Version 1.0.1-1 Update for tvOS 14 \n Version 1.0.2-1 Fixes the issue where the crewmates took over your folders and wouldn't allow you to scroll.",
  "MainTextColor":"ffffff",
  "AppIconURL" : "https://toxicappl3inc.github.io/tvrepo/depictions/NotAnImposterTV/images/NotAnImposterTV.png",
   "BackgroundImageURL" : "https://toxicappl3inc.github.io/tvrepo/depictions/NotAnImposterTV/images/NotAnImposterTVBackground.png",
