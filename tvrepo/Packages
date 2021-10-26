@@ -332,3 +332,37 @@ Description: Double click the menu button to take a screenshot.
 Author: iKilledAppl3 <ipodnewbee234@icloud.com>
 Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/Addilynne/Addilynne.json
 Name: Addilynne
+
+Package: com.ikilledappl3.notchtv
+Version: 1.0-1
+Architecture: appletvos-arm64
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 196
+Depends: mobilesubstrate
+Filename: ./com.ikilledappl3.notchtv_1.0-1_appletvos-arm64.deb
+Size: 35816
+MD5sum: 33ff50b9467329c8f51c838eedd4e774
+SHA1: 7d38caef628f5d2a20274329c97fea5b66b6aea4
+SHA256: 25acc22a437fc98d111e71099beb58c15a84b044318eada26549412c430cc1c6
+Section: Tweaks
+Description: Notch is love. Notch is life.
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/NotchTV/NotchTV.json
+Name: NotchTV
+
+Package: com.joshtv.zeldatv
+Version: 2.0-1
+Architecture: appletvos-arm64
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Installed-Size: 14008
+Depends: mobilesubstrate, preferenceloader
+Filename: ./com.joshtv.zeldatv_2.0-1_appletvos-arm64.deb
+Size: 13898454
+MD5sum: a0d2bff100cce504d4580330ffa7c859
+SHA1: 797e1fa4eb34847d7911e22fa4d62929c201074e
+SHA256: b67ff51c624983713fe74dc0bf89280f74582ce45362ebc961deb1dfca3b1c5c
+Section: Tweaks
+Description: Listen to the sounds of the Ocarina of Time as you brows, venture and explore your jailbroken Apple TV!
+Author: JoshTV
+Depiction: https://toxicappl3inc.github.io/tvrepo/depictions/ZeldaTV/ZeldaTV.json
+Name: ZeldaTV
