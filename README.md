@@ -1,4 +1,4 @@
-# ToxicAppl3 Inc's Website and amongst other misc items.
+# iKilledAppl3 LLC.'s Website and amongst other misc items.
 The website of @iKilledAppl3's affiliation.
 This is a revamped version anything here can be used as long as credit is given to @iKilledAppl3.
 
