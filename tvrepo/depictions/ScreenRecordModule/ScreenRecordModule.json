@@ -1,7 +1,0 @@
-{
- "LongDescription" : "QuickTime who? \n ScreenRecordModule allows you to record your tvOS 14 screen with ease! \n No more QuickTime... no more mess! AirDroping your screen recordings are a breeze! \n Manage your recordings with Ethereal. \n Follow me on Twitter (@iKilledAppl3), \n Donate via PayPal (https://paypal.me/iKilledAppl3). \n Support me on Patreon! (https://www.patreon.com/iKilledAppl3) \n Changelog: \n Version 1.0 - Release. \n Version 1.0.1-1 Code optimization and bug fixes. \n Version 1.0.2-1 More code optimization thanks to nitoTV. \n Version 1.0.3-1 Now only AirDrops the latest video thanks to nitoTV for the help!",
- "MainTextColor":"ffffff",
- "AppIconURL" : "https://toxicappl3inc.github.io/tvrepo/depictions/ScreenRecordModule/images/ScreenRecordModule.png",
- "BackgroundImageURL" : "https://toxicappl3inc.github.io/tvrepo/depictions/ScreenRecordModule/images/ScreenRecordModuleBackground.png"
-}
-

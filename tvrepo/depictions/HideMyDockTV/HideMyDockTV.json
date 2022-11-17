@@ -1,8 +1,0 @@
-{
- "LongDescription" : "Adjust the transparency (or hide) the dock on tvOS 13+. \n This tweak is open sourced on GitHub! (https://github.com/iKilledAppl3/HideMyDockTV/) \n Special thanks to @nitoTV and @Joshblah555 for the help on the depiction of this tweak. \n There are no screenshots for this item!",
- "MainTextColor":"ffffff",
- "BackgroundColor":"0066ff",
- "AppIconURL" : "https://toxicappl3inc.github.io/tvrepo/depictions/HideMyDockTV/images/HideMyDockTV.jpg",
- "VideoPreviewURL":"https://toxicappl3inc.github.io/tvrepo/depictions/HideMyDockTV/screenshots/HideMyDockTV.mp4",
-  "BackgroundImageURL" : "https://toxicappl3inc.github.io/tvrepo/depictions/HideMyDockTV/images/HideMyDockTVBackground.jpg",
-}

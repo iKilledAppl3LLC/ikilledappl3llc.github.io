@@ -1,9 +1,0 @@
-{
-    "LongDescription" : "What's old is new again! \n TwelveDock brings back the tvOS 12 dock to tvOS 13+. \n Follow me on Twitter (@iKilledAppl3), \n Donate via PayPal (https://paypal.me/iKilledAppl3). \n Support me on Patreon! (https://www.patreon.com/iKilledAppl3) \n Changelog: \n Version 1.0 - Release. \n Version 1.0.1 - Preferences fix.",
- "MainTextColor":"ffffff",
- "AppIconURL" : "https://toxicappl3inc.github.io/tvrepo/depictions/TwelveDock/images/TwelveDock.png",
-  "BackgroundImageURL" : "https://toxicappl3inc.github.io/tvrepo/depictions/TwelveDock/images/TwelveDockBackground.png",
- "Screenshots":
- ["https://toxicappl3inc.github.io/tvrepo/depictions/TwelveDock/screenshots/screenshot.png"
- ]
-}

@@ -4,5 +4,7 @@ This is a revamped version anything here can be used as long as credit is given 
 
 # Licensed Under the Apache 2.0 Liscense
 
+# THIS IS FOR ARCHIVE PURPOSES ONLY :P
+
 # ENJOY!
 # Thanks for stopping by!
